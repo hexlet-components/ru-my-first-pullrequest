@@ -17,9 +17,9 @@ on:
     types:
       - completed
   status: {}
+env:
+  MERGE_LABELS: ""
 jobs:
-  env:
-    MERGE_LABELS: ""
   automerge:
     runs-on: ubuntu-latest
     steps:
