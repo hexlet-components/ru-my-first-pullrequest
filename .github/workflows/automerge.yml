@@ -19,6 +19,7 @@ on:
   status: {}
 env:
   MERGE_LABELS: ""
+  MERGE_DELETE_BRANCH: "true"
 jobs:
   automerge:
     runs-on: ubuntu-latest
