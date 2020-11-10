@@ -18,6 +18,8 @@ on:
       - completed
   status: {}
 jobs:
+  env:
+    MERGE_LABELS: ""
   automerge:
     runs-on: ubuntu-latest
     steps:
