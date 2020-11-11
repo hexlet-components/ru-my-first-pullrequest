@@ -17,9 +17,6 @@ on:
     types:
       - completed
   status: {}
-env:
-  MERGE_LABELS: ""
-  MERGE_DELETE_BRANCH: "true"
 jobs:
   automerge:
     runs-on: ubuntu-latest
@@ -28,3 +25,6 @@ jobs:
         uses: "pascalgn/automerge-action@v0.12.0"
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_LABELS: ""
+          MERGE_DELETE_BRANCH: "true"
+          MERGE_FORKS: "true"
