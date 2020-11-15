@@ -2,7 +2,7 @@ name: automerge
 on:
   pull_request_target:
     types:
-      - labeled
+      - labeled1
       - unlabeled
       - synchronize
       - opened
