@@ -16,3 +16,5 @@ Git - очень удивительная вещь в мире разработ�
 Я готов к любому твоему ответу. Но ты придумываешь, будто один из вариантов мне удобнее другого и выбираешь его,
 хотя это не то, что удобнее тебе. Пойми, если тебе дают выбор, один твой ответ равнозначен другому.
 Жизнь состоит не в том, чтобы найти себя. Жизнь состоит в том, чтобы создать себя.
+
+Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout quarter. Wherry sutler hang the jib swing the lead parrel pinnace red ensign measured fer yer chains rum yardarm. Jack Ketch gunwalls careen hail-shot transom belay bring a spring upon her cable hempen halter nipper holystone.
