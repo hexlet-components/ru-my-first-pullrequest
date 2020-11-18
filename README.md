@@ -25,3 +25,4 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 Вот такие дела, собачка
 Еноты правят миром!
 любая цитата
+"Человека определяют не заложенные в нём качества, а только его выбор." - Альбус Дамблдор
