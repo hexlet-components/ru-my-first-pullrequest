@@ -18,3 +18,4 @@ Git - ╨╛╤З╨╡╨╜╤М ╤Г╨┤╨╕╨▓╨╕╤В╨╡╨╗╤М╨╜╨░╤П ╨▓╨╡╤Й╤М ╨▓ ╨╝╨╕╤А╨╡ ╤А╨░╨╖╤А╨░╨▒╨╛╤В╨
 ╨Ц╨╕╨╖╨╜╤М ╤Б╨╛╤Б╤В╨╛╨╕╤В ╨╜╨╡ ╨▓ ╤В╨╛╨╝, ╤З╤В╨╛╨▒╤Л ╨╜╨░╨╣╤В╨╕ ╤Б╨╡╨▒╤П. ╨Ц╨╕╨╖╨╜╤М ╤Б╨╛╤Б╤В╨╛╨╕╤В ╨▓ ╤В╨╛╨╝, ╤З╤В╨╛╨▒╤Л ╤Б╨╛╨╖╨┤╨░╤В╤М ╤Б╨╡╨▒╤П.
 
 Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout quarter. Wherry sutler hang the jib swing the lead parrel pinnace red ensign measured fer yer chains rum yardarm. Jack Ketch gunwalls careen hail-shot transom belay bring a spring upon her cable hempen halter nipper holystone.
+"Если в мире все бессмысленно, - сказала Алиса, - что мешает выдумать какой-нибудь смысл? Льюис Кэрролл" 
