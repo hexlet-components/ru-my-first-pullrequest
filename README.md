@@ -23,3 +23,4 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 
 Если вы хотите, чтобы код было легко и быстро писать — делайте его удобным для чтения. – Robert C. Martin
 Вот такие дела, собачка
+Еноты правят миром!
