@@ -20,3 +20,5 @@ Git - очень удивительная вещь в мире разработ�
 Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout quarter. Wherry sutler hang the jib swing the lead parrel pinnace red ensign measured fer yer chains rum yardarm. Jack Ketch gunwalls careen hail-shot transom belay bring a spring upon her cable hempen halter nipper holystone.
 
 "Если в мире все бессмысленно, — сказала Алиса, — что мешает выдумать какой-нибудь смысл?" Льюис Кэрролл
+
+Если вы хотите, чтобы код было легко и быстро писать — делайте его удобным для чтения. – Robert C. Martin
