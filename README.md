@@ -18,3 +18,5 @@ Git - очень удивительная вещь в мире разработ�
 Жизнь состоит не в том, чтобы найти себя. Жизнь состоит в том, чтобы создать себя.
 
 Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout quarter. Wherry sutler hang the jib swing the lead parrel pinnace red ensign measured fer yer chains rum yardarm. Jack Ketch gunwalls careen hail-shot transom belay bring a spring upon her cable hempen halter nipper holystone.
+
+"Если в мире все бессмысленно, — сказала Алиса, — что мешает выдумать какой-нибудь смысл?" Льюис Кэрролл
