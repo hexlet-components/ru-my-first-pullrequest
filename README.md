@@ -33,3 +33,5 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 Творить - значит убивать смерть. Ромен Роллан.
 
 „Даже путь в тысячу ли начинается с первого шага.“ - Лао-цзы
+
+Пока мы откладываем жизнь, она проходит.
