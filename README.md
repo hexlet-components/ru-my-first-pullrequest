@@ -30,3 +30,4 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 "Человека определяют не заложенные в нём качества, а только его выбор." - Альбус Дамблдор
 
 
+Творить - значит убивать смерть. Ромен Роллан.
