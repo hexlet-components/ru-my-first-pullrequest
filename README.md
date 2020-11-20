@@ -38,3 +38,4 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 
 Жизнь — это миг. Ее нельзя прожить сначала на черновике, а потом переписать на беловик. А.П. Чехов
 Жить - значит мыслить. Цицерон
+Жизнь - это театр, а люди в нем актеры.
