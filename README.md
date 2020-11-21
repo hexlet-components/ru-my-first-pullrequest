@@ -46,3 +46,5 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 
 >`Карлос Кастанеда`
 hmmm
+
+Есть только две бесконечные вещи: Вселенная и глупость. Хотя насчет Вселенной я не уверен. (с)Альберт Эйнштейн
