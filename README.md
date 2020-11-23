@@ -65,3 +65,5 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 способен достичь
 
 ...пора перестать ждать неожиданных подарков от жизни, а самому делать жизнь. `Л.Н.Толстой`
+
+Только с пользой прожитая жизнь долга. /Л. да Винчи/
