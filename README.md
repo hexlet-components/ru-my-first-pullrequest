@@ -58,3 +58,5 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 
 
 Работать надо не 12 часов, а головой. С. Джобс
+
+Искал себе работу. Пошел на биржу труда, взяли на работу в ту же биржу. Теперь ищу работу другим.
