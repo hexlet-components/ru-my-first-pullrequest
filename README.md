@@ -84,3 +84,5 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 "I think it is possible for ordinary people to choose to be extraordinary." -Elon Musk
 
 Никогда не недооценивай противника ежи. /Кама Пуля/
+
+Не стоит искать виноватых, стоит искать пиво по акции. - Джейсон Стейтем
