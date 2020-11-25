@@ -82,3 +82,5 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 Наполеон Хилл, журналист и писатель 
 
 "I think it is possible for ordinary people to choose to be extraordinary." -Elon Musk
+
+Никогда не недооценивай противника ежи. /Кама Пуля/
