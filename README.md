@@ -80,3 +80,5 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
  Что разум человека может постигнуть и во что он может поверить, того он способен достичь
 
 Наполеон Хилл, журналист и писатель 
+
+"I think it is possible for ordinary people to choose to be extraordinary." -Elon Musk
