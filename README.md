@@ -94,3 +94,5 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 Чем дальше в лес, тем больше дров.
 
 Думаю, это будет новой фичей. Только не говорите никому, что она возникла случайно. /Larry Wall/
+
+Перестаньте дырявить мой корабль! /Капитан Джек Воробей/
