@@ -91,3 +91,4 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 
 Возненавидеть жизнь можно только вследствие апатии и лени. /Сенека/
 
+Думаю, это будет новой фичей. Только не говорите никому, что она возникла случайно. /Larry Wall/
