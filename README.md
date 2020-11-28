@@ -103,3 +103,4 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 Самое дорогое у человека — это жизнь. Она дается ему один раз, и прожить ее надо так, чтобы не было мучительно больно за бесцельно прожитые годы. /Н. Островский/
 
 Усли тебе тяжело, значит ты поднимаешься в гору. Если тебе легко, значит ты летишь в пропасть. /Генри Форд/
+Your time is limited, so dont waste it living someone elses life.
