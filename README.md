@@ -104,3 +104,5 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 
 Усли тебе тяжело, значит ты поднимаешься в гору. Если тебе легко, значит ты летишь в пропасть. /Генри Форд/
 Your time is limited, so dont waste it living someone elses life.
+
+Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили./Mosher’s Law of Software Engineering/
