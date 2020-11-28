@@ -106,3 +106,5 @@ Maroon heave down lad black spot long boat nipperkin scuttle broadside lookout q
 Your time is limited, so dont waste it living someone elses life.
 
 Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили./Mosher’s Law of Software Engineering/
+
+“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” — Antoine de Saint-Exupéry
