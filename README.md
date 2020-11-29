@@ -118,3 +118,5 @@ Your time is limited, so dont waste it living someone elses life.
 “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” — Antoine de Saint-Exupéry
 
 В недрах тундры выдры в гетрах тырят в ведра ядра кедров. Выдрав с выдры в тундре гетры, вытру выдрой ядра кедра, вытру гетрой выдре морду - ядра в вёдра, выдру в тундру.
+
+Как на земле между северным и южным полюсами развёртывается всё многообразие жизни и красоты, так и все возможные градации жизни и красоты мира контрастов распределяются между их полярными полюсами. — Иоганнес Иттен
