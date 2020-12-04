@@ -1,4 +1,4 @@
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+﻿AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 Все категоричные утверждения неверны! /Народная мудрость/
 
@@ -168,3 +168,5 @@ Your time is limited, so dont waste it living someone elses life.
 
 Зачем учить нас, как работать,
 вы научитесь, как платить
+
+Денег, которые я заработал, хватит мне до конца жизни, если я умру сегодня в 16.00.
