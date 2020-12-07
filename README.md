@@ -181,3 +181,5 @@ Your time is limited, so dont waste it living someone elses life.
 Все мы родом из детства.
 
 Your assumptions are your windows on the world. Scrub them off every once in a while, or the light wont come in. /Isaac Asimov/
+
+Только не останавливаться на полдороге, это самое бессмысленное не только в делах, но и вообще всегда и везде. /Процесс, Кафка/
