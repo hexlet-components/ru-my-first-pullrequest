@@ -188,3 +188,5 @@ Your assumptions are your windows on the world. Scrub them off every once in a 
 
 что мертво, умереть не может (с)
 The most effective way to do it, is to do it.
+
+Вы никогда не пересечете океан, если не наберетесь мужества потерять берег из виду. **Христофор Колумб**
