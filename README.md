@@ -187,3 +187,4 @@ Your assumptions are your windows on the world. Scrub them off every once in a 
 Только не останавливаться на полдороге, это самое бессмысленное не только в делах, но и вообще всегда и везде. /Процесс, Кафка/
 
 что мертво, умереть не может (с)
+The most effective way to do it, is to do it.
