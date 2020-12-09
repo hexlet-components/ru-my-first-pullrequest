@@ -198,3 +198,5 @@ The most effective way to do it, is to do it.
 Дети – отражение своих родителей!!!
 
 Veni vidi vici (c) Jason Statham
+
+В такие времена, как нынешние, полезно помнить, что времена всегда были нынешние.
