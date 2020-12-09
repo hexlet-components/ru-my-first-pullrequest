@@ -1,5 +1,5 @@
 ﻿AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-
+What WHAt WHAT what WHat
 HEXLET -  Лучшая онлайн школа для изучения профессии программист!!!
 
 Все категоричные утверждения неверны! /Народная мудрость/
