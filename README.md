@@ -1,4 +1,6 @@
-﻿AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+﻿Цитата великого человека. ;-))
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 HEXLET -  Лучшая онлайн школа для изучения профессии программист!!!
 
