@@ -195,4 +195,6 @@ The most effective way to do it, is to do it.
 
 Жизнь — это чудесное приключение, достойное того, чтобы ради удач терпеть и неудачи.
 
+Дети – отражение своих родителей!!!
+
 Veni vidi vici (c) Jason Statham
