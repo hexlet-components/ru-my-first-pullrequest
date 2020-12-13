@@ -218,3 +218,4 @@ lets try to do something useful and change our life
 
 Memento mori
 Наша жизнь — это мерцающий в темноте свет.
+Честь, достоинство и совесть - вот мое кредо!
