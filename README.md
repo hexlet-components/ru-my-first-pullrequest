@@ -216,3 +216,4 @@ This too shall pass
 lets try to do something useful and change our life
 
 Memento mori
+Наша жизнь — это мерцающий в темноте свет.
