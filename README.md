@@ -235,3 +235,4 @@ Memento mori
 
 жизнь это жизнь   (Ясиров.С.Т)
 
+Because fuck you, thats why
