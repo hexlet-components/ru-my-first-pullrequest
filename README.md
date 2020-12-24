@@ -1,3 +1,5 @@
+"In theory, there is no difference between theory and practice; in practice, there is." Yogi Berra
+
 Логика может привести Вас от пункта А к пункту Б, а воображение — куда угодно.
 Альберт Эйнштейн.
 
