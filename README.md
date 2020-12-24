@@ -1,3 +1,5 @@
+"In theory, there is no difference between theory and practice; in practice, there is." Yogi Berra
+
 Логика может привести Вас от пункта А к пункту Б, а воображение — куда угодно.
 Альберт Эйнштейн.
 
@@ -261,5 +263,3 @@ Morgen, morgen nur nicht heute sagen alle faulen Leute!
 Что разум человека может постигнуть и во что он может поверить, того он способен достичь.
 
 Не столь важно, как медленно ты идешь, как то, как долго ты идешь, не останавливаясь.
-
-In theory, there is no difference between theory and practice; in practice, there is.
