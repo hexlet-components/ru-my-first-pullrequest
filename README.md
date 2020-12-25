@@ -267,3 +267,4 @@ Morgen, morgen nur nicht heute sagen alle faulen Leute!
 Не столь важно, как медленно ты идешь, как то, как долго ты идешь, не останавливаясь.
 Если ты будешь колоть дрова сам, то согреешься ими дважды. Генри Форд
 
+Happy New Year and Merry Christmas
