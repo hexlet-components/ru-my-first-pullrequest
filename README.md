@@ -297,3 +297,4 @@ some text
 
 My momma always said, "Life was like a box of chocolates. You never know what you're gonna get."
 Стремитесь не к успеху, а к ценностям, которые он дает
+privet eto ruslan
