@@ -300,3 +300,5 @@ My momma always said, "Life was like a box of chocolates. You never know what yo
 privet eto ruslan
 
 В чем сила брат?
+
+"У судьбы нет причин без причин сводить посторонних"
