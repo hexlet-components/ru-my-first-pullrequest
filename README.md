@@ -268,3 +268,4 @@ Morgen, morgen nur nicht heute sagen alle faulen Leute!
 Если ты будешь колоть дрова сам, то согреешься ими дважды. Генри Форд
 
 Happy New Year and Merry Christmas
+Does anybody know what we are living for?
