@@ -305,3 +305,5 @@ privet eto ruslan
 Пока мы откладываем жизнь, она проходит.
 
 Software is like sex; it's better when it's free. (c) Linus Torvalds
+
+Тот, кто хочет - ищет возможности. Тот, кто не хочет - ищет причины...
