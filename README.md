@@ -1,3 +1,4 @@
+Тот, кто хочет - ищет возможности. Тот кто не хочет - ищет причины...
 "In theory, there is no difference between theory and practice; in practice, there is." Yogi Berra
 
 Как басня, так и жизнь ценится не за длину, но за содержание
