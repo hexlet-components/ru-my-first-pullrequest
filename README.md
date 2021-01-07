@@ -303,3 +303,5 @@ privet eto ruslan
 
 "У судьбы нет причин без причин сводить посторонних"
 Пока мы откладываем жизнь, она проходит.
+
+Software is like sex; it's better when it's free. (c) Linus Torvalds
