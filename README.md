@@ -307,3 +307,4 @@ privet eto ruslan
 Software is like sex; it's better when it's free. (c) Linus Torvalds
 
 Тот, кто хочет - ищет возможности. Тот, кто не хочет - ищет причины...
+Стремитесь не к успеху, а к ценностям, которые он дает
