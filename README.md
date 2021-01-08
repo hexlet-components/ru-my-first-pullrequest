@@ -313,3 +313,5 @@ Software is like sex; it's better when it's free. (c) Linus Torvalds
 Пока мы откладываем жизнь, она проходит.
 
 Исследовать свою психику — как работать с Линуксом. У тебя есть потенциал для создания эффективного гибрида танка с самолётом. А на деле получается комбайн с пропеллером.
+
+Change will come to those who have no fear - tkuzmin
