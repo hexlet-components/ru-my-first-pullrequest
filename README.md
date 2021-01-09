@@ -317,3 +317,4 @@ Software is like sex; it's better when it's free. (c) Linus Torvalds
 Change will come to those who have no fear - tkuzmin
 
 Выживает не самый сильный, а самый восприимчивый к переменам. /Ч.Дарвин/
+Пока мы откладываем жизнь, она проходит. /Сенека/
