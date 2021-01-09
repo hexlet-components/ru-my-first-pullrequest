@@ -317,3 +317,5 @@ Software is like sex; it's better when it's free. (c) Linus Torvalds
 Change will come to those who have no fear - tkuzmin
 
 Пока мы откладываем жизнь, она проходит. /Сенека/
+
+Если вы думаете, что на что-то способны, вы правы; если думаете, что у вас ничего не получится - вы тоже правы. **Генри Форд**
