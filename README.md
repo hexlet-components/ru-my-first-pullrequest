@@ -1,3 +1,4 @@
+"Щасливий, хто мав змогу знайти щасливе життя. Але щасливіший той, хто вміє ним користуватись."
 "In theory, there is no difference between theory and practice; in practice, there is." Yogi Berra
 
 Как басня, так и жизнь ценится не за длину, но за содержание
