@@ -431,4 +431,4 @@ Any string
 
 Ubung macht den Meister / Schritte International
 
-Сомнения - первый шаг на пути к ереси
+Сомнения - первый шаг на пути к разочарованию 
