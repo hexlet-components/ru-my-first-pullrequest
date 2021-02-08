@@ -484,3 +484,4 @@ If you are going up...keep going ;-)
 Моё "люблю" очень дорогого стоит. Говорю это редко и мало кому.
 
 Ваше прошлое — это уже только история. И как только вы это осознаете, оно больше не имеет власти над вами.
+Work hard to get what you like, otherwise you will be forced to just like what you get
