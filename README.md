@@ -485,3 +485,4 @@ If you are going up...keep going ;-)
 
 Ваше прошлое — это уже только история. И как только вы это осознаете, оно больше не имеет власти над вами.
 Work hard to get what you like, otherwise you will be forced to just like what you get
+<h3>«Что имеем — не храним, потерявши — плачем». <em>Леонид Утесов<em></h3>
