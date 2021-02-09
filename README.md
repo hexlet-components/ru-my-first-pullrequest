@@ -487,3 +487,5 @@ If you are going up...keep going ;-)
 Work hard to get what you like, otherwise you will be forced to just like what you get
 <h3>«Что имеем — не храним, потерявши — плачем». <em>Леонид Утесов<em></h3>
 anything you want
+
+<h3>Мама, я в телевизоре</h3>
