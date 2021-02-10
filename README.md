@@ -496,6 +496,7 @@ anything you want
 
 Не все то золото, что блестит.
 
+Чем больше сила, тем больше и ответственность.
 
 # inst: _dimasic_
 # from Saint-Petesburg with Love. :)
