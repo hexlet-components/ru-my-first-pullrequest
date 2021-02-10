@@ -496,7 +496,7 @@ anything you want
 
 Не все то золото, что блестит.
 
-----------------------------------
-#inst: _dimasic_
-from Saint-Petesburg with Love. :)
-----------------------------------
+
+# inst: _dimasic_
+# from Saint-Petesburg with Love. :)
+
