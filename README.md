@@ -503,3 +503,4 @@ anything you want
 # inst: _dimasic_
 # from Saint-Petesburg with Love. :)
 
+Все что сказано, сказано людьми
