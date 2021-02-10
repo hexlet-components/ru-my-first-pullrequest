@@ -495,3 +495,8 @@ anything you want
 Желаю что бы все!
 
 Не все то золото, что блестит.
+
+
+# inst: _dimasic_
+# from Saint-Petesburg with Love. :)
+
