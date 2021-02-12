@@ -514,3 +514,12 @@ anything you want
 
 Случайность — есть ещё непознанная закономерность.
 Очень часто лучшее лекарство — это обойтись без него.
+
+*****
+I believe in Hexlet.
+He will help me to get the necessary knowledge to take the place in my new profession.
+Now I'm going to this, I believe in success.
+Thanks!
+<< hexlet art / 12.02.2021 >>
+*****
+
