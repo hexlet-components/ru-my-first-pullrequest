@@ -587,3 +587,4 @@ something new2
 
 Лучше сделать чуть больше, хотя бы и напрасно, чем сделать чуть меньше и потом жалеть.(The Witcher 3 Витольд)
 greetings to all who is HEXLET_GANG member, all the rest would be judjed by savior himself!
+some citata
