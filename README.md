@@ -592,3 +592,5 @@ greetings to all who is HEXLET_GANG member, all the rest would be judjed by savi
 some citata
 
 'Учиться, Учиться и еще раз Учиться' - Zikrullaev Munir:)
+
+Сложнее всего начать действовать, все остальное зависит только от упорства.
