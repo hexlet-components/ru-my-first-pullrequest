@@ -14,3 +14,5 @@
 
 "The difference between sex and love is that sex relieves tension and love causes it." -Woody Allen
 Надо любить жизнь больше, чем смысл жизни.
+
+"Нет ветра — берись за вёсла!" (латинская пословица)
