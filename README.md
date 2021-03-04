@@ -13,3 +13,4 @@
 Когда ты прав, никто не запоминает. А как ошибешься — никто не забудет. Мохаммед Али.
 
 "The difference between sex and love is that sex relieves tension and love causes it." -Woody Allen
+Надо любить жизнь больше, чем смысл жизни.
