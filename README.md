@@ -168,3 +168,5 @@ No code no pain (с) HEXLET
 Per aspera ad astra
 
 "Если тебе тяжело, значит ты поднимаешься в гору. Если тебе легко, значит ты летишь в пропасть." Генри Форд
+
+«Programming is like sex. One mistake and you have to support it to the end of your life.» by Michael Sinz
