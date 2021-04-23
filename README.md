@@ -120,3 +120,4 @@ A
 
 Если нет ветра, беритесь за вёсла.
 - Латинская поговорка
+If wine is fruit, then vodka must be a vegetable
