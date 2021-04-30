@@ -159,3 +159,6 @@ Do what you can, with what you've got, where you are.
 
 Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.
 Mosher’s Law of Software Engineering
+
+Программирование — это разбиение чего-то большого и невозможного на что-то маленькое и вполне реальное.
+Jazzwant
