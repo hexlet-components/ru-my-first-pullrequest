@@ -198,3 +198,4 @@ Jazzwant
 я люблю гид
 
 Судьба сдала нам карты.Будем играть
+You never know, you never know
