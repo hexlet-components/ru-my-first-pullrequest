@@ -232,3 +232,5 @@ I'll be back
 Never give up!
 
 Столетия летят так быстро, что человечество не успевает поумнеть.
+
+If not now, then when?
