@@ -1,3 +1,6 @@
+"Once you head down the dark path, forever will it dominate your destiny. And you get dental." — Undead Acolyte
+
+
 „Безнадёжно — это когда на крышку гроба падает земля. Остальное можно исправить.“ —  Джейсон Стэтхэм
 
 
@@ -269,4 +272,3 @@ Just for fun
 С большой силой приходит большая ответсвенность. (с) дядя Бэнcogito ergo sum
 
 Горы по колено, если держишь шаг
-"Once you head down the dark path, forever will it dominate your destiny. And you get dental." — Undead Acolyte
