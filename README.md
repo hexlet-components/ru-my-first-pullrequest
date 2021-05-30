@@ -269,3 +269,4 @@ Just for fun
 С большой силой приходит большая ответсвенность. (с) дядя Бэнcogito ergo sum
 
 Горы по колено, если держишь шаг
+"Once you head down the dark path, forever will it dominate your destiny. And you get dental." — Undead Acolyte
