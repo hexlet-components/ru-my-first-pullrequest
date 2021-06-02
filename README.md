@@ -1,5 +1,6 @@
 "Once you head down the dark path, forever will it dominate your destiny. And you get dental." — Undead Acolyte
 
+Стремитесь не к успеху, а к ценностям, которые он дает
 
 „Безнадёжно — это когда на крышку гроба падает земля. Остальное можно исправить.“ —  Джейсон Стэтхэм
 
