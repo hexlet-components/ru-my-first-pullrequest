@@ -1,3 +1,7 @@
+"Твой файл был так велик
+И, должно быть, весьма полезен
+Но его больше нет"
+
 "Once you head down the dark path, forever will it dominate your destiny. And you get dental." — Undead Acolyte
 
 
