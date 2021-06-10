@@ -314,3 +314,5 @@ Ibsens ripsbusker og andre buskevekster
 Я оглянулся посмотреть, не оглянулась ли она, чтоб посмотреть, не оглянулся ли я.
 "Любое событие неизбежно, иначе его бы не случилось." — О.Ж. Гранд
 The new citate
+
+Do your thing and enjoy
