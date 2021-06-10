@@ -316,3 +316,6 @@ Ibsens ripsbusker og andre buskevekster
 The new citate
 
 Do your thing and enjoy
+
+> Избранный не выбирает, а делает, и не канают отмазки.
+> Юрий Стыльский
