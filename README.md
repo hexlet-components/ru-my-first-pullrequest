@@ -342,3 +342,5 @@ You will never be happy if you continue to search for what happiness consists of
 I can feel pieces of my brain falling away like a wet cake - Bernard Black (me too)
 БЕЗУМНО МОЖНО БЫТЬ ПЕРВЫМ
 Как говорил мой дед: "Я твой дед".
+
+Стремитесь не к успеху, а к ценностям, которые он дает
