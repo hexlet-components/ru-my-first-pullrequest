@@ -341,3 +341,4 @@ Do your thing and enjoy
 You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
 I can feel pieces of my brain falling away like a wet cake - Bernard Black (me too)
 БЕЗУМНО МОЖНО БЫТЬ ПЕРВЫМ
+Как говорил мой дед: "Я твой дед".
