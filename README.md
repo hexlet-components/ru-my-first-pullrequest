@@ -344,3 +344,4 @@ I can feel pieces of my brain falling away like a wet cake - Bernard Black (me t
 Как говорил мой дед: "Я твой дед".
 
 Не торопись, а то успеешь
+If you want learn git - you need learn how to use Linux
