@@ -24,3 +24,5 @@ English letters
 скажем дружно: нахуй нужно
 Some text
 Оставляю свой след в истории
+
+Per rectum ad astra. © Ad Hominem.
