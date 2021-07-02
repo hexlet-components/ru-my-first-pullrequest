@@ -26,3 +26,4 @@ Some text
 Оставляю свой след в истории
 
 Per rectum ad astra. © Ad Hominem.
+Делай как нужно, а как не нужно не делай!
