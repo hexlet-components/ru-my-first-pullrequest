@@ -1,3 +1,4 @@
+No diversion from your route
 Одна ошибка и ты ошибся
 NOOOOOOOOOOOOOOOOOOO!
 wubba lubba dub dub
