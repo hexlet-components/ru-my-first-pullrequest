@@ -45,3 +45,5 @@ Per rectum ad astra. © Ad Hominem.
 
 Одиночество — болезнь смертельная. ©Horo, Spice and WolfКруто быть прогером
 ABSO LUTELY
+
+Лучшая месть - огромный успех @ Фрэнк Синатра
