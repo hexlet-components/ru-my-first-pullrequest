@@ -13,3 +13,4 @@ ttt
  (с) Марк Твен
  
  Мы помним моменты, а не дни. (c) Чезаре Павезе
+If PlanA did't work, the alphabet has 25 more letters! Stay Cool!
