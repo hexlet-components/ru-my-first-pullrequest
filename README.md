@@ -41,3 +41,4 @@ There is no smart thoughts
 
 Jeg er vist kommet på en feil klode!
 
+Чтобы вести людей за собой, иди за ними
