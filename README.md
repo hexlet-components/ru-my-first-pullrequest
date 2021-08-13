@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 10cde20 (add quote)
 "Кто я такой, чтоб не пить?" М.Жванецкий
 ***
 «Ай Карамба!» Bartholomew JoJo "Bart" Simpson
@@ -37,3 +40,4 @@ There is no smart thoughts
 ***
 
 Jeg er vist kommet på en feil klode!
+
