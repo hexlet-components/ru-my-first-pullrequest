@@ -1,5 +1,4 @@
-Насколько проще было бы писать программы, если бы не заказчики. (с) R. S. Martin
-***
-"Кто я такой, чтоб не пить?" М.Жванецкий
-***
-«Ай Карамба!» Bartholomew JoJo "Bart" Simpson
+Jeg er vist kommet på en feil klode!
+
+Чтобы вести людей за собой, иди за ними
+If PlanA did't work, the alphabet has 25 more letters! Stay Cool!
