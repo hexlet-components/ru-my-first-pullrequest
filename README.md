@@ -66,3 +66,17 @@ If Plan A did't work, the alphabet has 25 more letters! Stay Cool!
 Жак Фреско
 
 Лучшая месть – огромный успех.
+
+***
+
+Я не должен бояться. Ибо страх убивает разум. Страх есть малая смерть, 
+влекущая за собой полное уничтожение. Я встречу свой страх и приму его. Я позволю 
+ему пройти надо мной и сквозь меня. И когда он пройдет через меня, я обращу свой 
+внутренний взор на его путь; и там, где был страх, не останется ничего. 
+Останусь лишь я, я сам.
+(С) Фрэнк Гербет. #Дюна
+I must not fear. Fear is the mind-killer. Fear is the little-death that brings 
+total obliteration. I will face my fear. I will permit it to pass over me and 
+through me. And when it has gone past I will turn the inner eye to see its path. 
+Where the fear has gone there will be nothing. Only I will remain.
+(С) Frank Herbert, Dune 
