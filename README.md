@@ -80,3 +80,14 @@ total obliteration. I will face my fear. I will permit it to pass over me and
 through me. And when it has gone past I will turn the inner eye to see its path. 
 Where the fear has gone there will be nothing. Only I will remain.
 (С) Frank Herbert, Dune 
+
+***
+
+"Мне трудно представить себе, какая может быть “личная свобода” у безработного,
+который ходит голодным и не находит применения своего труда. 
+Настоящая свобода имеется только там, где уничтожена эксплуатация, 
+где нет угнетения одних людей другими, где нет безработицы и нищенства, 
+где человек не дрожит за то, что завтра может потерять работу, жилище, хлеб. 
+Только в таком обществе возможна настоящая, а не бумажная, личная и всякая другая свобода." И. Сталин
+
+***
