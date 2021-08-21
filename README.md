@@ -92,3 +92,8 @@ Where the fear has gone there will be nothing. Only I will remain.
 
 ***
 update 20/08/2021
+
+***
+
+Друзья, запомните этот день, когда вами чуть не был пойман Капитан Джек Воробей!
+
