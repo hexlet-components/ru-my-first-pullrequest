@@ -4,3 +4,8 @@
 
 Your time is limited, so don’t waste it living someone else’s life. 
 ― Steve Jobs
+
+Держитесь подальше от тех мелких людишек, которые стремятся лишить Вас Ваших амбиций.
+Лучше водите дружбу с великими людьми.
+
+Марк Твен
