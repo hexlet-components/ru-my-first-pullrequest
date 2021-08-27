@@ -19,3 +19,4 @@ Your time is limited, so don’t waste it living someone else’s life.
 Бенджамин Франклин
 
 Единственный способ жить хорошо - сразу уходить оттуда, где плохо.
+"Мы помним моменты, а не дни."
