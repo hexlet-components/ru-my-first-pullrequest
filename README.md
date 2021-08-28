@@ -27,3 +27,4 @@ Your time is limited, so don’t waste it living someone else’s life.
 Стремитесь не к успеху, а к ценностям, которые он дает
 
 Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.
+test pull request from GitHub
