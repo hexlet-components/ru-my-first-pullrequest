@@ -32,3 +32,5 @@ Your time is limited, so don’t waste it living someone else’s life.
 test pull request from GitHub
 
 "Мы помним моменты, а не дни."
+
+Подвиг одних - результат предательства других
