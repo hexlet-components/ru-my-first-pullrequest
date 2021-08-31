@@ -30,3 +30,7 @@ Your time is limited, so don’t waste it living someone else’s life.
 
 Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.
 test pull request from GitHub
+
+"Мы помним моменты, а не дни."
+
+Подвиг одних - результат предательства других
