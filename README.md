@@ -14,3 +14,6 @@
 
 "Человек живёт не в стране, он живёт внутри языка. Не делайте ошибок; родина — это язык и ничего больше." - Эмиль Чоран
 Sky's the limit
+
+"One day there will be no borders, no boundaries, no flags and no countries and the only passport will be the heart."
+– Carlos Santana
