@@ -11,3 +11,4 @@ Hello Hexlet. It is my first pull request. Maxx.
 I am Brut!
 Hello from Ashgabat, thank you Hexlet ;)
 Hello people!
+Привет из Алтайского края!
