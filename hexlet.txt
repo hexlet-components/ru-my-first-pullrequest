@@ -14,3 +14,4 @@ Hello people!
 Привет из Алтайского края!
 Daamn, Hexlet rules
 Hello from Novy_Urengy
+Et tu, Brute?
