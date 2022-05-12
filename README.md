@@ -18,3 +18,5 @@ Sky's the limit
 "One day there will be no borders, no boundaries, no flags and no countries and the only passport will be the heart."
 – Carlos Santana
 I am 1000
+
+"Сегодня в завтрашний день, не каждый может смотреть."-В.Кличко
