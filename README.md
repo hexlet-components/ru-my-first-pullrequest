@@ -65,3 +65,5 @@ WebDeveloperZBK был тут
 Смех - последний бастион раба.
 
 Hello, Hexlet!
+
+After Monday and Tuesday even the calendar says WHF!
