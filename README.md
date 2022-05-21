@@ -67,7 +67,7 @@ WebDeveloperZBK был тут
 
 Hello, Hexlet!
 
-After Monday and Tuesday even the calendar says WHF!
+After Monday and Tuesday even the calendar says WTF!
 
 Чем больше сила, тем больше и ответственность.
 
