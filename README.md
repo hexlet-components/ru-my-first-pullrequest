@@ -71,3 +71,4 @@ After Monday and Tuesday even the calendar says WTF!
 
 Чем больше сила, тем больше и ответственность.
 
+bateau russe va te faire foutre
