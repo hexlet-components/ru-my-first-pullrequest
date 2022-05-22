@@ -72,3 +72,5 @@ After Monday and Tuesday even the calendar says WTF!
 Чем больше сила, тем больше и ответственность.
 
 bateau russe va te faire foutre
+
+"Новый день - новый шанс. Работайте, и что-нибудь получится" - Харви Пикар
