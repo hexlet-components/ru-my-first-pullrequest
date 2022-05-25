@@ -91,3 +91,5 @@ Now is better than never. Although never is often better than *right* now.
 
 Мир!
 Here is my pullRequest
+
+"Когда кажется, что весь мир настроен против тебя - помни, что самолет взлетает против ветра." - Генри Форд 
