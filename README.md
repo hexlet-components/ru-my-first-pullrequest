@@ -97,3 +97,5 @@ Here is my pullRequest
 i wanna add my PR
 
 Частота дискретизации живой музыки равна бесконечности.
+
+A strong man doesn't need to read his future. He makes his own.
