@@ -91,3 +91,5 @@ Now is better than never. Although never is often better than *right* now.
 
 Мир!
 Here is my pullRequest
+
+Частота дискретизации живой музыки равна бесконечности.
