@@ -112,3 +112,5 @@ A strong man doesn't need to read his future. He makes his own.
 r-lucky was here
 
 Просто выполняю задание hexlet 
+
+Не понимаю как я здесь очутился.
