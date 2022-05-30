@@ -14,6 +14,8 @@
 
 Источник: https://ru.stackoverflow.com/questions/134183/%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-pull-request?
 
+Всем привет! Кто любит митол-коре и пост-хардкоре, залетайте в клуб Город 11.06 (Москва) и клуб Alcatraz (Нижний Новгород). Группа DEADBIRDS, послушать можно на всех стриминговых площадках ;) 
+
 "Человек живёт не в стране, он живёт внутри языка. Не делайте ошибок; родина — это язык и ничего больше." - Эмиль Чоран
 
 "One day there will be no borders, no boundaries, no flags and no countries and the only passport will be the heart."
