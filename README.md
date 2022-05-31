@@ -136,4 +136,7 @@ Life is like a box of chocolates. You never know what you're gonna get. (Forrest
 
 Hello, Hexlet!
 
+Heute ist ein guter Tag fuer einen guten Tag. 
+
 Отладка кода — это как охота. Охота на жуков.
+
