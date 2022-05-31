@@ -133,3 +133,5 @@ Hello, Hexlet!
 Life is like a box of chocolates. You never know what you're gonna get. (Forrest Gump)
 
 Привет Хекслет. Это первый коммит Дмитрия Х. Всем удачи.
+
+Hello, Hexlet!
