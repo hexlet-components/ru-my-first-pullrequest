@@ -135,3 +135,4 @@ Life is like a box of chocolates. You never know what you're gonna get. (Forrest
 Привет Хекслет. Это первый коммит Дмитрия Х. Всем удачи.
 
 Hello, Hexlet!
+Heute ist ein guter Tag f�r einen guten Tag. 
