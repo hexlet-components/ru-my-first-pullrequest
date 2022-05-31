@@ -135,3 +135,5 @@ Life is like a box of chocolates. You never know what you're gonna get. (Forrest
 Привет Хекслет. Это первый коммит Дмитрия Х. Всем удачи.
 
 Hello, Hexlet!
+
+Отладка кода — это как охота. Охота на жуков.
