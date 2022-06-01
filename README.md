@@ -1,3 +1,5 @@
+This is my first pull-request! Yeah! / Anton Lastukhin - SC21 /
+
 Прикольно :)
 
 Вот я делаю Pull request по заданию из курса (с) EugeneB
