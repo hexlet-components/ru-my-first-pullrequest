@@ -160,3 +160,5 @@ Heute ist ein guter Tag fuer einen guten Tag.
 Ставлю лайк всем шутникам выше
 
 Hello, Hexlet!
+
+Привет, мир!
