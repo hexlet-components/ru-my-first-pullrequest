@@ -162,3 +162,5 @@ Heute ist ein guter Tag fuer einen guten Tag.
 Hello, Hexlet!
 
 Привет, мир!
+
+Sure, Not.
