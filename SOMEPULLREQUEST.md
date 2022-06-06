@@ -4,3 +4,4 @@ Hello from Krasnoyarsk
 Hello from Cheboksaty!
 Hello from Gavrilkovo-Krasnogorsk!
 Hello from Lodeynoe Pole
+Да, привет
