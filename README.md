@@ -173,3 +173,5 @@ Sure, Not.
 
 Мой первый пулреквест.
 DjinTest
+
+Ping
