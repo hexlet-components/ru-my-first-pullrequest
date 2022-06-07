@@ -178,3 +178,6 @@ DjinTest
 
 Ping
 Мой первый pullrequest! Всем успехов в изучении!
+
+*Rick Astley* как то сказал
+> Never Gonna Give You Up
