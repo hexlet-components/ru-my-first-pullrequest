@@ -1,6 +1,8 @@
 Hello!
 Скрытый урок курса по git - https://youtu.be/dQw4w9WgXcQ
 
+Всё получится!
+
 Hello! This is my first pull-request! Make love and code, not war!!!
 
 Привет землянам из 2022.
