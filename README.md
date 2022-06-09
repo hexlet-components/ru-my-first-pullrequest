@@ -1,3 +1,5 @@
+Всем мира и добра!
+
 Hi all! This is my FIRST, but not LAST pull request!
 Test pull request by noviligx 2022
 Hello!
