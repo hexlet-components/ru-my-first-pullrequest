@@ -1,3 +1,6 @@
+Just added an another branch for pull request.
+Thanks for a very fascinating and adorable course, dear Hexlet! :)
+
 Hello Git! Hexlex is awsome!
 
 Всем мира и добра!
