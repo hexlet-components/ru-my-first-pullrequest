@@ -228,3 +228,5 @@ Best moment is yet to come.
 
 My first pull request expirience Vova.S
 Кто здесь?
+
+~~Тест простого AdHoc-пулреквеста.~~ Везде эти англицизмы! Тест непосредственного запроса на изменение. AdHoc pull request testing.
