@@ -227,6 +227,7 @@ Best moment is yet to come.
 ***
 Не получается оплатить курсы на Хекслет из-за санкций. Но я не сдаюсь! Я все равно стану разработчиком! (c) Eugene Nazirov
 
+Мой первый Pull Request
 
 My first pull request expirience Vova.S
 Кто здесь?
