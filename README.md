@@ -1,4 +1,4 @@
-Не здавайся и Git Gud!
+Не сдавайся и Git Gud!
 
 FIRST COMMIT
 
