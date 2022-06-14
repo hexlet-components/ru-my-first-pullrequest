@@ -1,4 +1,4 @@
-Не здавайся и Git Gud!
+Не сдавайся и Git Gud!
 
 Just added an another branch for pull request.
 Thanks for a very fascinating and adorable course, dear Hexlet! :)
