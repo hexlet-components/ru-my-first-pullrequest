@@ -1,3 +1,5 @@
+Ответ: 42
+
 Не сдавайся и Git Gud!
 
 FIRST COMMIT
