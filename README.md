@@ -251,3 +251,4 @@ Spasibo za kurs osnovi git'a :D
 echo git is awesome
 
 HI all, Hexlet is awesome!
+Ура! Кажется у меня получилось!
