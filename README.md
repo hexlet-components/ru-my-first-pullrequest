@@ -1,3 +1,4 @@
+https://isrubydead.com
 Тестовый коммит "Somebody... I used to know" 2022
 Ответ: 42
 Hi
