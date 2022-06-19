@@ -248,3 +248,4 @@ my first pull request!
 ____________________________________________________________________________________________________________________
 
 Spasibo za kurs osnovi git'a :D
+new pullrequest from Vikulina M.
