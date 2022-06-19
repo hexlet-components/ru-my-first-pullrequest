@@ -254,3 +254,4 @@ echo git is awesome
 
 HI all, Hexlet is awesome!
 Ура! Кажется у меня получилось!
+roaddust2 was here :)
