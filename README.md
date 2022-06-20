@@ -7,6 +7,12 @@ Hi
 
 FIRST COMMIT
 
+В 17 лет серьёзность не к лицу,
+И как-то вечером оставьте свои полные бокалы,
+И шумные кафе и свет слепящих люстр
+Под липами пора гулять настала.
+
+
 Just added an another branch for pull request.
 Thanks for a very fascinating and adorable course, dear Hexlet! :)
 
