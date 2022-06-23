@@ -272,3 +272,4 @@ roaddust2 was here :)
 Всё получится.
 
 DenisJD/ Ееее! Спасибо, Hexlet!
+Greetings from Samara!
