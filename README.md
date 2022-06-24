@@ -292,3 +292,5 @@ _______________________________
 
 (с) https://chto-takoe-lyubov.net/stixi-pro-programmista-programmistov/
 _______________________________
+
+Make pullrequests, not war
