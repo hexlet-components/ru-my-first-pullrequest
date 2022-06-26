@@ -1,3 +1,6 @@
+Hello to everyone. Especially to newcomers. So long as we follow that way, We have nothing to fear.
+Its my very first pull request. =) Do not beat me so hard. From Georgia with love.
+
 «Успех – это умение двигаться от одной неудачи к другой, не теряя энтузиазма». © Уинстон Черчилль
 
 My update
