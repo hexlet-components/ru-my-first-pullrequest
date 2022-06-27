@@ -300,3 +300,5 @@ _______________________________
 
 Make pullrequests, not war
 Hello Hexlet, Hello Spd!
+
+Ветки — это ссылки на определённый коммит.
