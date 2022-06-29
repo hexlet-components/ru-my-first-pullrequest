@@ -311,3 +311,4 @@ Make pullrequests, not war
 Hello Hexlet, Hello Spd!
 
 Ветки — это ссылки на определённый коммит.
+Первый пулреквест делаю параллельно осваивая VSCODE. Всем успешного освоения новых знаний! Per Aspera Ad Astra! Smolett1974 29/06/2022
