@@ -311,3 +311,5 @@ Make pullrequests, not war
 Hello Hexlet, Hello Spd!
 Ветки — это ссылки на определённый коммит.
 
+
+ Третья попытка добавить пулреквест. Per Aspera ad Astra! Smolett1974 30-06-2022
