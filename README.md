@@ -312,4 +312,3 @@ Hello Hexlet, Hello Spd!
 
 Шел медвкдь по лесу, видит - машина горит, сел в нее и сгорел
 lalal
-я не могу зделать pullreq к python.py :(
