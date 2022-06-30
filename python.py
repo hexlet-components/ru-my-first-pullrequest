@@ -7,3 +7,4 @@ y = ["*"for i in range(x)]
 print("".join(y))
     
 print('next step for you')
+print()
