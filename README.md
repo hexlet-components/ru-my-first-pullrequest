@@ -312,3 +312,5 @@ Hello Hexlet, Hello Spd!
 
 Шел медвкдь по лесу, видит - машина горит, сел в нее и сгорел
 lalal
+_______________________________
+Good luck have fun in all things
