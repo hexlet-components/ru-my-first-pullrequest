@@ -325,3 +325,5 @@ test first pr
 Привет от Дена
 
 "Ringo wasn’t the best drummer in the world… Let’s face it, he wasn’t even the best drummer in The Beatles"
+
+Крутяк!!! И я тут чёнить пукну. Привет от Ибрага всем Явовцам и Джавовцам !!!!!!!!!!!!!!!
