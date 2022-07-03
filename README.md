@@ -323,3 +323,5 @@ Oh. My. God... I did it!
 Ребята, вы крутые! Спасибо за курсы!
 test first pr
 Привет от Дена
+
+"Ringo wasn’t the best drummer in the world… Let’s face it, he wasn’t even the best drummer in The Beatles"
