@@ -1,0 +1,1 @@
+never use command rm -rf in directory /
