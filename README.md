@@ -1,2 +1,0 @@
-hell yeah!
-my mom
