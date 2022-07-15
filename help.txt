@@ -1,0 +1,1 @@
+у меня не работает .gitignore (help me)
