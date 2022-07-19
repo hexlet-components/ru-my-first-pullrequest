@@ -1,0 +1,5 @@
+cont greeting = (text) => {
+  return greeting(text);
+};
+
+greeting('Hello, World');
