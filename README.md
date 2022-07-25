@@ -24,3 +24,5 @@ P.S. Если кто-то не понял, это просто анекдот)
 > No problem can be solved from the same level of consciousness that created it. Albert Einstein
 пробую добавить свой первый pullrequest
 Hello Hexlet!
+
+Мудрый правитель развивает в стране экономику,а трусливый диктатор – пропаганду и репрессии.
