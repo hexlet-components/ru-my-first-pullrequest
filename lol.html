@@ -1,3 +1,0 @@
-lol
-kek
-cheburek
