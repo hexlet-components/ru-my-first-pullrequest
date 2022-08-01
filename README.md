@@ -7,6 +7,8 @@
 
 ~~ HEXLET ONE LOVE <3 ~~
 
+Здесь был Иван
+
 Кирдынымышнеме
 
 Hello to everyone. Especially to newcomers. So long as we follow that way, We have nothing to fear.
