@@ -1,3 +1,5 @@
 # ru-my-first-pullrequest
 
 JavaScript– лучший на свете язык программирования! :D (нет)
+
+(я так сказал)
