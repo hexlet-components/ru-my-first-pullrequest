@@ -2,4 +2,4 @@
 Основные изменения в новой версии программы: исправлены старые баги, добавлены новые.
 some content
 some content also! anyone can add any content and then make a pullrequest!
-Hexlet is awesome! C# is the best!
+Hexlet is awesome! Java is the best!
