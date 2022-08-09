@@ -4,3 +4,4 @@ some content
 some content also! anyone can add any content and then make a pullrequest!
 Hexlet is awesome! Java is the best!
 bibibi
+Coding is amazing!
