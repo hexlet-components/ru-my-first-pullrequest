@@ -1,2 +1,3 @@
 Hello, Hexlet! this is my first pullrequest
 Добавлю еще 5 копеек
+and 100 dollars
