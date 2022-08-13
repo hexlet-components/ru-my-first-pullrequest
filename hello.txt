@@ -4,3 +4,4 @@ first steps
 hello from Vladivostok
 Hello from Saint-Petersburg
 Hello from Minsk
+:)
