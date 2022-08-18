@@ -1,0 +1,2 @@
+I would like to thank the Academy for this wonderful opportunity of cloning hexlet's open-source repository.
+What a great way to learn!
