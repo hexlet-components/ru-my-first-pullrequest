@@ -1,0 +1,27 @@
+console.log('Привет!Я вспоминаю свои навыки в работе с кодом.');
+console.log('Сейчас, я заново часть упражнений из курса "Введение в программирование".');
+
+const squareOfSum = (a, b) => (a + b) ** 2;
+
+const finalGrade = (exam, projects) => {
+
+if (exam > 90 || projects > 10) {
+return 100;
+} else if (exam > 75 && projects >= 5) {
+return 90;
+} else if (exam > 50 && projects >= 2) {
+return 75;
+} else {
+return 0;
+};
+
+};
+
+const reference = () => console.log(simba);
+
+const type = () => {
+const typeError = 13;
+return typeError();
+};
+
+console.log('Остальное допишу чуть позже ^ ^');
