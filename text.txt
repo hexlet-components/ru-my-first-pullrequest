@@ -1,0 +1,1 @@
+Hi. I'm Yegor and I'm studying frontend and I'm going to pull request
