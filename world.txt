@@ -1,2 +1,3 @@
 Hello, World!
 Hola, Mundo! 
+Привет, мир!
