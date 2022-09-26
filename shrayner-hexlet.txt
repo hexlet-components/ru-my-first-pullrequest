@@ -1,2 +1,0 @@
-My name is Artem Shrayner
-Thanks for git-practice to hexlet

@@ -1,4 +1,0 @@
-Hello, World!
-Hola, Mundo! 
-Привет, мир!
-Hi, i am Anna and i am learning git
