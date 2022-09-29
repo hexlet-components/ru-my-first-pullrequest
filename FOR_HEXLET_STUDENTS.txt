@@ -1,1 +1,1 @@
-Мама, я делаю свой первый пул реквест!
+This is my first pull request!
