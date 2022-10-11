@@ -6,3 +6,4 @@ Kaluga
 Yekaterinburg
 NewMoscowMan
 Simferopol
+Saint Petersburg
