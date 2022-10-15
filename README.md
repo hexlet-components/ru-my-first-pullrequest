@@ -1,8 +1,4 @@
-Пробуем pull request
-some new file
-new line
-update something 
-another update
-I have made some edits
-I have made some edits too
-fancy new line
+Попробовал коммит и пул-реквест в удаленную репу.
+Решил для этого поправить именно README.md. Так нагляднее :)
+
+А я повторил:)
