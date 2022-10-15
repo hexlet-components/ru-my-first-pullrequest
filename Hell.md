@@ -1,1 +1,0 @@
-Hell to the world
