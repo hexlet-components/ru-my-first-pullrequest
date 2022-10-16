@@ -1,0 +1,30 @@
+#Скопируй в IDE Python >=v3.
+while True:
+    month = input("Введите месяц: ").lower()
+    date = int(input('Введите дату: '))
+    if date in range (21, 32) and month == "март" or date in range (1, 21) and month == 'апрель':
+        print("Овен")
+    elif date in range (21, 31) and month == "апрель" or date in range (1, 22) and month == 'май':
+        print('Телец')
+    elif date in range (22, 32) and month == "май" or date in range (1, 22) and month == 'июнь':
+        print('Близнецы')
+    elif date in range (22, 31) and month == "июнь" or date in range (1, 23) and month == 'июль':
+        print('Рак')
+    elif date in range (23, 32) and month == "июль" or date in range (1, 24) and month == 'август':
+        print('Лев')
+    elif date in range (24, 32) and month == "август" or date in range (1, 23) and month == 'сентябрь':
+        print('Дева')
+    elif date in range (23, 31) and month == "сентябрь" or date in range (1, 23) and month == 'октябрь':
+        print('Весы')
+    elif date in range (23, 32) and month == "октябрь" or date in range (1, 23) and month == 'ноябрь':
+        print('Скорпион')
+    elif date in range (22, 31) and month == "ноябрь" or date in range (1, 22) and month == 'декабрь':
+        print('Стрелец')
+    elif date in range (22, 31) and month == "декабрь" or date in range (1, 21) and month == 'январь':
+        print('Козерог')
+    elif date in range (21, 32) and month == "январь" or date in range (1, 20) and month == 'февраль':
+        print('Водолей')
+    elif date in range(20, 30) and month == "февраль" or date in range(1, 21) and month == 'март':
+        print('Рыбы')
+    elif month == 'выход':
+        break
