@@ -1,2 +1,2 @@
 Git is AWESOME!!!
-git is handy
+git is handy!
