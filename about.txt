@@ -1,2 +1,3 @@
 Git is AWESOME!!!
 git is handy!
+I love programming!
