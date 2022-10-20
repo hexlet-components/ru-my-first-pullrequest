@@ -1,0 +1,9 @@
+Hello, Hexlet!
+
+My name is Ramil.
+I learn coding. I like your git course. Thanks for that free course.
+
+Now I learn Python. I use it for my personal projects, but I have never worked with team.
+Could I try to work with one of your open source project?
+
+Thanks.
