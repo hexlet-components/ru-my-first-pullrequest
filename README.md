@@ -8,3 +8,4 @@ Hello, Hexlet!
 
 OOPS!
 MORE text
+Hello, Hexlet!
