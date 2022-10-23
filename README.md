@@ -300,3 +300,5 @@ _______________________________
 
 Make pullrequests, not war
 Hello Hexlet, Hello Spd!
+
+Hello World 2!
