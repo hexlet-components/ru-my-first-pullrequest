@@ -12,6 +12,11 @@ Hello, Hexlet!
 
 Hexlet the best!!! 
 
+
+Make pullrequests, not war
+Hello Hexlet, Hello Spd!
+
+Hello World 2!
 Its my first pull-request. So lets just do it! Yaroslav was here.
 yoyo
 Hello my friend, good luck and have fun:)
