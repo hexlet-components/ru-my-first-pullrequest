@@ -21,4 +21,3 @@ Its my first pull-request. So lets just do it! Yaroslav was here.
 yoyo
 Hello my friend, good luck and have fun:)
 Is there anybody out there?
-I love Cs Go
