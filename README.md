@@ -5,6 +5,7 @@ Damn it's great!
 Without effort, you can not catch a fish from a pond!!!
 Hello, Hexlet!
 
+Thank you for learned  me, Hexlet
 
 OOPS!
 MORE text
