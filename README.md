@@ -32,3 +32,5 @@ It's me.
 ( ◜‿◝ )♡
 
 Andrey Gulayakin aka andrew-walker91 was here)
+
+Thank you, Hexlet, for this course
