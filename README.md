@@ -43,3 +43,4 @@ Hello Hexlet
 Yet another change to this file
 
 Hello, World! by lounahead
+Knowing is not enough; we must apply. Wishing is not enough; we must do
