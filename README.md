@@ -52,3 +52,4 @@ Bravo, Hexlet! The best programming school!
 
 
 Hello Hexlet! 
+Hello Everyone !
