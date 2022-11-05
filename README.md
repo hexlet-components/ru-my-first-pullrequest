@@ -54,6 +54,8 @@ Bravo, Hexlet! The best programming school!
 Hello Hexlet! 
 Hello Everyone !
 
+Hello from Ksenia
+
 Hello World War!
 
 Make code, not war. Sooner or later, all of us will live in peace together! 
