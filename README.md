@@ -1,3 +1,5 @@
+GOD BLESS HEXLET!!!
+
 Thanks Hexlet For Pullrequest!
 
 Preved medved!)))
