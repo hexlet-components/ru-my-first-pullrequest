@@ -79,3 +79,4 @@ __ypypy28__ was here
 
 This is my first pullrequest. Thanks Hexlet )) add new line to readme file
 thx hexlet :3
+Hello all future developers
