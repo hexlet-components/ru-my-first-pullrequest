@@ -62,6 +62,8 @@ Bravo, Hexlet! The best programming school!
 Hello Hexlet! 
 Hello Everyone !
 
+Hello From Max!
+
 Hello from Ksenia
 
 Hello World War!
