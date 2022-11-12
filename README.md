@@ -86,5 +86,3 @@ thx hexlet :3
 Hello all future developers
 Love Hexlet!
 Hello everyone, I was here!
-
-any text
