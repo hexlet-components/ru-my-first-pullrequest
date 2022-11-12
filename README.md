@@ -83,3 +83,4 @@ This is my first pullrequest. Thanks Hexlet )) add new line to readme file
 thx hexlet :3
 Hello all future developers
 Love Hexlet!
+Hello everyone, I was here!
