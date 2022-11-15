@@ -7,3 +7,5 @@ And my first pull request!
 dimanvaz insertion
 
 new lin of text god dammit
+--------
+And the text goes on!
