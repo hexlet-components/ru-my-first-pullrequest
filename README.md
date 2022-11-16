@@ -1,3 +1,5 @@
+I am a SHARK in the world of programming! 
+
 Kotoandrey on Hexlet.io
 
 Another One Bites the Dust (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
