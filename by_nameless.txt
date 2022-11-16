@@ -1,2 +1,0 @@
-this is my first pull request as i learn git.
-rome wasn't built in a day.

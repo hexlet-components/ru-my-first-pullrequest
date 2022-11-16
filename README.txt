@@ -1,3 +1,2 @@
-This is my first pullrequest
-And this is my first pullrequest
-Treniruyus izo vseh sil
+Some text
+Привет! Я Маша, люблю уточек, хе-хе
