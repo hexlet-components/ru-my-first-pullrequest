@@ -9,3 +9,9 @@ dimanvaz insertion
 new lin of text god dammit
 --------
 And the text goes on!
+
+-----------
+Bonjour a tous!
+
+Je veux dire "Merci beaucoup" a toutes programmeurs de Hexlet!
+You all are amazing and your service is awesome!
