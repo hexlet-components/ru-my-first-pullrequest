@@ -100,3 +100,5 @@ odhako was here, committing
 zent was here
 
 berserk is cool
+
+Hello from Pavel!
