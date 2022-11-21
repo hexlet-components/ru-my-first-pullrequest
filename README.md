@@ -107,3 +107,26 @@ Hello from Pavel!
 
 vitya_bolet was here
 Hello, Hexlet. I was here
+
+
+                             ue$$$$$$$$$e.
+                          o$$$P""     "#$$$b
+                        d$$$"            ?$$N
+                      x$$$"               $$$
+                     d$$$     .ueeeeeeeeee$$$beeeeeu
+                    @$$$     d$            $>      $$
+                   $$$$      $$            $>      4$
+$$$.             .$$$P       $$            $>      4$
+?$$$L           z$$$"        $$eeeeeeeeeeee$beeeeeed$
+  *$$$e..   .z$$$$"          $$                    4$
+    ^#R$$$$$$$*"             $$                    4$
+                             $$                    4$
+                             $$                    4$
+                             $$                    4$
+                             $$                    4$
+                             $$                    4$
+                             9$                    d$
+                              $k                   $F
+                               $N                z$"
+                                '*$o.         .e$"
+                                    "#*$$$$P*""
