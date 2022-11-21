@@ -106,3 +106,4 @@ berserk is cool
 Hello from Pavel!
 
 vitya_bolet was here
+Hello, Hexlet. I was here
