@@ -1,1 +1,0 @@
-Здесь был andersonru
