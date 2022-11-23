@@ -4,3 +4,5 @@ Hello, Hexlet!
 
 Straight into IT, guys, good luck! 
 Did it
+
+Thanks :) 
