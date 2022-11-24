@@ -2,8 +2,7 @@
 
 Hello, Hexlet!
 
-Straight into IT, guys, good luck! 
-Did it
-Irina pullrequest
+Little by little every day and everything will work out!
 
+pullrequest by pavlovkeith
 Thanks :) 
