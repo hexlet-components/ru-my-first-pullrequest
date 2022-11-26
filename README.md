@@ -4,5 +4,5 @@ Hello, Hexlet!
 
 Little by little every day and everything will work out!
 
-pullrequest by pavlovkeith
+pullrequest by Danila :)
 Thanks :) 
