@@ -3,7 +3,7 @@
 Hello, Hexlet!
 
 Little by little every day and everything will work out!
+Hexlet is amazing :D
 
-pullrequest by Danila :)
-Thanks :) 
-yoyoyoy
+pullrequest by Maxim :)
+Thanks :)
