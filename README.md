@@ -7,3 +7,4 @@ Hexlet is amazing :D
 
 pullrequest by Maxim :)
 Thanks :)
+Hi everybody !
