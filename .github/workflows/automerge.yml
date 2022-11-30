@@ -28,7 +28,7 @@ jobs:
           repository: ${{github.event.pull_request.head.repo.full_name}}
           fetch-depth: 2
       - name: Checking that workflow file did not change
-        run: git diff HEAD HEAD~1 --exit-code .github/workflows/automerge.yml
+        run: git diff HEAD HEAD~1 --exit-code .github/workflows/automerge.yml .github/workflows/issue.yml .github/ISSUE_TEMPLATE/bug.md
       - name: automerge
         uses: "pascalgn/automerge-action@v0.14.3"
         env:
