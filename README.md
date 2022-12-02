@@ -11,7 +11,3 @@ hello everybody!:)
 Hello ^_^+ one more line
 
 Ну привет
-
-Hi All!
-
-Hi everyone)
