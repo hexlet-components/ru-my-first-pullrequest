@@ -9,3 +9,4 @@ Greetings to you
 Every day new code!
 Hey, this is my first pullrequest!
 Hey, i am happy learning on Hexlet!
+Вместе победим! ZZZ
