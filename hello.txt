@@ -1,12 +1,1 @@
-Hey! Thank u for ur job! <3
-Hello
-Hi everybody.
-Welcome to the club Buddy
-Mom, this is my first pullrequest!
-Hi All!
-Hello!
-Greetings to you
-Every day new code!
-Hey, this is my first pullrequest!
-Hey, i am happy learning on Hexlet!
-Вместе победим! ZZZ
+hi, hexlet!
