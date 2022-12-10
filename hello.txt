@@ -1,1 +1,1 @@
-hi, hexlet!
+Hi, Hexlet!
