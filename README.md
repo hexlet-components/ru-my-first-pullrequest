@@ -27,5 +27,5 @@ salam pacanam
 Hello, Hexlet :3
 
 That's my first pullrequest and the only thing that i wanna to say u is - i printed this text by 10 fingers printing method
-Good luck!
 
+Good luck!
