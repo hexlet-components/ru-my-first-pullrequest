@@ -23,6 +23,8 @@ Hi whatsup
 one more line
 Finally contributing!
 
+gg
+
 
 Если я внесу изменения, это примут? Если вы видете это сообщение, то приняли :)
 salam pacanam
@@ -36,3 +38,5 @@ Good luck!
 Hello, Hexlet and Zdarova rabotyagi! 🫡
 
 Hello Hexlet, from Cawa Bob
+
+opa f5
