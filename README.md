@@ -40,3 +40,6 @@ Hello, Hexlet and Zdarova rabotyagi! 🫡
 Hello Hexlet, from Cawa Bob
 
 opa f5
+
+Привет всем!
+Ух ты, я тоже могу пуллреквестить? 
