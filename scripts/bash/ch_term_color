@@ -21,4 +21,3 @@ else
     wal -e -t -n -q -i $bg_now_o3
   fi
 fi
-
