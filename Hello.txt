@@ -8,3 +8,4 @@ Hello from dm-ru!
 Hexlet, вы - большие молодцы и делаете классные курсы! 
 Так держать, и удачи в Новом 2023 году! :)
 
+Hello from Czech Republic, new test Pull. Request
