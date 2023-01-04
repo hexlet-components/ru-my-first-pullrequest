@@ -9,3 +9,5 @@ Hexlet, вы - большие молодцы и делаете классные 
 Так держать, и удачи в Новом 2023 году! :)
 
 Hello from Czech Republic, new test Pull. Request
+
+Bonjour, les amis :)
