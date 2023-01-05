@@ -1,7 +1,7 @@
 Hello, World!
 Hello from Canada
 Hello from dm-ru!
-
+Hello, Darkness!
 Привет!
 Это мой первый PR (pull request, пулл реквест:)).
 
