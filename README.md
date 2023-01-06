@@ -32,3 +32,4 @@ Haskell Curry
 Привет из Словении!
 
 # Герои умирают - Легенды живут вечно!
+HelloHexletHello
