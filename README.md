@@ -33,3 +33,4 @@ Haskell Curry
 
 # Герои умирают - Легенды живут вечно!
 HelloHexletHello
+(><)
