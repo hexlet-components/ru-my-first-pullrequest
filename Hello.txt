@@ -12,4 +12,6 @@ Hello from Czech Republic, new test Pull. Request
 
 Bonjour, les amis :)
 Привет из Хабаровска :)
-Hello!
+Hello! 
+Нет войне!
+:_:
