@@ -41,3 +41,6 @@ HelloHexletHello
 счастливого рождества
 Здесь был ежик)
 pull request by Bosqy
+
+
+Салам алейкум
