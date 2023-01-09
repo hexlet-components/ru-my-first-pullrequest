@@ -50,3 +50,5 @@ pull request by Bosqy
 теперь я умею пользоваться Git-ом 🤪
 
 test pull request
+
+=^_^=
