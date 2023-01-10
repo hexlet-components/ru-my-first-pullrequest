@@ -52,3 +52,5 @@ pull request by Bosqy
 test pull request
 
 =^_^=
+
+Всем привет!
