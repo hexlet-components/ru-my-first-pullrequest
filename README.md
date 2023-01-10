@@ -54,4 +54,3 @@ test pull request
 =^_^=
 
 Всем привет!
-
