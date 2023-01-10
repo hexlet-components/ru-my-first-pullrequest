@@ -66,3 +66,4 @@ Hello, my name is CJ from Groove street! Lets blast some Ballas!
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 Unicuique secundum opera eius
 Альфонсо обошел дом. Остановился перед тем изречением, написанным буквами древнеарабского алфавита, которые он не умел прочитать и Ракель перевела ему: «Унция мира больше стоит, чем тонна победы».
+Buongiorno fron Italy
