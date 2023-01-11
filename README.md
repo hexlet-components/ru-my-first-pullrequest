@@ -69,3 +69,5 @@ Unicuique secundum opera eius
 Buongiorno fron Italy
 
 10.01.2023 $1 = 69,68 руб. О, потомки из будущего, напишите мне, старику, сколько этот $ стоит у вас! :) >>> egor.kurilko@gmail.ru
+
+Виталий проба пера 
