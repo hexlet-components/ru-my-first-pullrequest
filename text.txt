@@ -1,2 +1,3 @@
 "A repository that automatically merges a pull request. Designed to practice in a git course" 
 Добавлена строка
+тест Оля
