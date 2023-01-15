@@ -107,3 +107,4 @@ How did you put all this damn emojis?!
 — XP.
 — А какая стала?
 — А стала Vista
+Hello i am haaaaastler IT
