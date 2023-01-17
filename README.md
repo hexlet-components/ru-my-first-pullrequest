@@ -1,3 +1,5 @@
+Thank you, Hexlet! I hope I find a job now :D
+
 shiiiii... работает! ащащ
 
 Hi, KarinaG! Have a good life!
