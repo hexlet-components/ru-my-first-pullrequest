@@ -117,3 +117,5 @@ Hello i am haaaaastler IT
 
 Hello everyone! I'm here)
 камарджоба, котята! всем удачи и поменьше жуков :)
+
+senior developer по кодам в GTA 
