@@ -1,3 +1,5 @@
+
+I love Hexlet )
 Thank you, Hexlet! I hope I find a job now :D
 
 shiiiii... работает! ащащ
