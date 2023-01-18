@@ -137,4 +137,4 @@ senior developer по кодам в GTA
 
 Признавайтесь, кто готовиться к бассейну Школы 21?
 
-[![Photo](https://preview.redd.it/iiq2cmna3tca1.jpg?width=960&crop=smart&auto=webp&v=enabled&s=f0f1bce99784c4e01a2c3666c1886ab2645cc010 "Have a look at my photo from previous job :smile: @DREU007")]
+[![Photo](https://preview.redd.it/iiq2cmna3tca1.jpg?width=960&crop=smart&auto=webp&v=enabled&s=f0f1bce99784c4e01a2c3666c1886ab2645cc010 "Have a look at my photo from previous job 🙃 @DREU007")](https://github.com/DREU007)
