@@ -126,6 +126,8 @@ How did you put all this damn emojis?!
 — XP.
 — А какая стала?
 — А стала Vista
+LOL!
+
 Hello i am haaaaastler IT
 
 Hello everyone! I'm here)
@@ -138,3 +140,6 @@ senior developer по кодам в GTA
 Признавайтесь, кто готовиться к бассейну Школы 21?!
 
 Hello everyone! @koshka.flo
+
+Здесь Олег разбирается, как работают пулреквесты.
+Попытка номер 2 (сделал новую ветку).
