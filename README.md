@@ -1,3 +1,5 @@
+#### План на понедельник - ждать пятницу!
+
 # May the Force be with you 
 
 [![Анекдот](https://sun9-3.userapi.com/impg/KzXyiI5b6jLCpb2qn9WvnMouF7oAmnS0NHC2Rg/rFK8lpT3yns.jpg?size=1200x800&quality=96&sign=6123f290d44257d3d41300ab9cfa7832&type=album "В поезде едут 3 юзера и 3 программиста.
