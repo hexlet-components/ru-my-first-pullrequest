@@ -11,7 +11,7 @@
 Вывод — не всякий алгоритм, доступный программисту, доступен юзеру.")](https://github.com/vladkostikov)
 
 Мама, я пулреквесчу!
-
+Всем привет, желаю всем легкой удачи 
 здесь был вова :3
 I love Hexlet )
 Thank you, Hexlet! I hope I find a job now :D
