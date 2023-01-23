@@ -46,3 +46,4 @@ Hello from Nizhny Novgorod!
 Нет войне
 +
 Hello, people!
+Hello! :)
