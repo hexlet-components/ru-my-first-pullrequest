@@ -45,3 +45,4 @@ Hello from Nizhny Novgorod!
 Привет из Пензы!
 Нет войне
 +
+Hello, people!
