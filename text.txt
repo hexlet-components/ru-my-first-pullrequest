@@ -1,7 +1,0 @@
-"A repository that automatically merges a pull request. Designed to practice in a git course" 
-Добавлена строка
-тест Оля
-сюда тожно можно писать? 12.01.23
-ничерта не понятно, чем дальше тем страшнее
-New string
-dfd
