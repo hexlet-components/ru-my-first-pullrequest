@@ -1,6 +1,7 @@
-Пробуем pull request
-some new file
-new line
-update something 
-another update
-I have made some edits
+Live your life, Puss in Boots. Live it well.
+
+Ура, закончил урок по gitHub, всем удачи!
+
+Мама, я сделал свой первый пуллреквест, поздравьте меня!!!)
+
+We vibe, we move, we enjoy ourselves!
