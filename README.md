@@ -10,3 +10,5 @@ We vibe, we move, we enjoy ourselves!
 Делаем ещё одно изменение
 
 SUSUME! 
+
+Спасибо Hexlet.
