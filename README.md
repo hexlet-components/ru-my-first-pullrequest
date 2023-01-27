@@ -7,4 +7,6 @@ Live your life, Puss in Boots. Live it well.
 We vibe, we move, we enjoy ourselves!
 
 Всем привет меня зовут Загид, и да GitHub is awesome!!!:)
-Делаем ещё одно изменение 
+Делаем ещё одно изменение
+
+SUSUME! 
