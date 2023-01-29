@@ -3,7 +3,7 @@
                  MMMM88&&&&&&&
      *           MMM  всем &&&&
                  MM здоровья &&
-                 'M 27.01.23 &'
+                 'M 29.01.23 &'
                    'MMM8&&&'      *    
           |\___/|     /\___/\
           )     (     )    ~( .              '
@@ -62,3 +62,5 @@ new line...
 GitHub is awesome!
 
 Hexlet <3
+
+Vielen Dank, Hexlet!
