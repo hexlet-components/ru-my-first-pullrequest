@@ -70,3 +70,5 @@ Vielen Dank, Hexlet!
 hi hexlet! thx 
 
 Hi, Hexlet!
+
+Пулреквест прямо на GitHub (づ｡◕‿‿◕｡)づ
