@@ -72,3 +72,5 @@ hi hexlet! thx
 Hi, Hexlet!
 
 pull request через консоль (ง ͠° ͟ل͜ ͡°)ง
+
+Пулреквест прямо на GitHub (づ｡◕‿‿◕｡)づ
