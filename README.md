@@ -71,4 +71,4 @@ hi hexlet! thx
 
 Hi, Hexlet!
 
-~(˘▾˘~) pull request через консоль (ง ͠° ͟ل͜ ͡°)ง
+pull request через консоль (ง ͠° ͟ل͜ ͡°)ง
