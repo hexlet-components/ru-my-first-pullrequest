@@ -6,3 +6,4 @@ Hello v.2, Hexlet is awesome 2
 спасибо за отличный курс!
 
 Thanks!
+Привет Hexlet
