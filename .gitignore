@@ -1,3 +1,7 @@
+
+/.idea
+/projenv/
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
 # Byte-compiled / optimized / DLL files
@@ -183,3 +187,5 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 # .idea
+/._REMOTE_375.gitignore.swp/
+#sergey tanki 1984 @mail.pinya.ru
