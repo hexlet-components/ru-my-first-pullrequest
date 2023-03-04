@@ -8,3 +8,4 @@ Hello v.2, Hexlet is awesome 2
 Thanks!
 Привет Hexlet
 Why i can't do this on console?
+Учиться с вами одно удовольствие!:)
