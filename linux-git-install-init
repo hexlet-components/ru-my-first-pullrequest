@@ -1,7 +1,7 @@
 //Linux
-1️⃣'sudo apt update'
-2️⃣'sudo apt install git-all'
-3️⃣'git --version'
-4️⃣ git init
-5️⃣|git config user.name username
-6️⃣'git config user.email email
+sudo apt update
+sudo apt install git-all
+git --version
+git init
+git config user.name username
+git config user.email email
