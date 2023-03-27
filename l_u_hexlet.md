@@ -1,1 +1,0 @@
-proceed to coding Nazareth

@@ -1,2 +1,0 @@
-# If you want to exclude certain decompilers
-# python scripts/dce.py --without-reko build

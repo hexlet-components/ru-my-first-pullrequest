@@ -1,7 +1,0 @@
-//Linux
-sudo apt update
-sudo apt install git-all
-git --version
-git init
-git config user.name username
-git config user.email email
