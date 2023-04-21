@@ -2,6 +2,7 @@ import UIKit
 
 class HexletGitViewController: UIViewController {
     
+    // MARK: - UI Elements
     private let hexletLabel: UILabel = {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
@@ -10,6 +11,7 @@ class HexletGitViewController: UIViewController {
         return label
     }()
     
+    // MARK: - View Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -20,4 +22,3 @@ class HexletGitViewController: UIViewController {
         ])
     }
 }
-
