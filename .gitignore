@@ -189,3 +189,6 @@ fabric.properties
 # .idea
 /._REMOTE_375.gitignore.swp/
 #sergey tanki 1984 @mail.pinya.ru
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
