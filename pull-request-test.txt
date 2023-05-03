@@ -3,3 +3,4 @@ pull request test
 PR with love
 TEST PULL-REQUEST
 I am practicing. Thank you for Hexlet!
+New line by slava
