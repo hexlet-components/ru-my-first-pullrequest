@@ -6,3 +6,5 @@
 My first pull request.
 Мой первый pull request (Hotmail1992).
 Upd to the README.md
+
+Update for PR
