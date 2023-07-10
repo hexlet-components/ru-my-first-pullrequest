@@ -1,11 +1,4 @@
-New  new changes
-Hello Hexlet!
-welcome to the darkside
+Hexlet is the best project!
 
-Hello v.2, Hexlet is awesome 2
-спасибо за отличный курс!
-
-Thanks!
-Привет Hexlet
-Why i can't do this on console?
-Учиться с вами одно удовольствие!:)
+add my first pull request
+There it is

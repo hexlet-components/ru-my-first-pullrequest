@@ -1,1 +1,0 @@
-Hello, Hexlet! I'm testing pull request feature!
