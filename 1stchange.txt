@@ -1,1 +1,3 @@
 Hello world!!
+# :)
+Good bye, Lord!
