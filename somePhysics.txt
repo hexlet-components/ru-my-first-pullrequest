@@ -1,1 +1,1 @@
-My first pullrequest with second Newton's Low: F=ma
+My first pullrequest with second Newton's Law: F=ma
