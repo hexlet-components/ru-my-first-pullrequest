@@ -1,1 +1,0 @@
-Sova likes Hexlet. =)
