@@ -1,2 +1,0 @@
-Application
-Hi from Gomel!
