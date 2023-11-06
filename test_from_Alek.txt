@@ -1,2 +1,0 @@
-This is a test pull request in Hexlet course
-# test from Alek(x) :-)
