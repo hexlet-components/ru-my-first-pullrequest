@@ -1,1 +1,2 @@
 I just want to add a file for my own pull request
+I want it too.
