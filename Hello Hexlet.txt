@@ -1,4 +1,0 @@
-Hello team!
-This file was renamed, because Windows doesn't like "!" in names of files. 
-That's why I couldn't clone repository before I rename it.
-2023-11-14 test text
