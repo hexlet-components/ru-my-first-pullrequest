@@ -1,0 +1,1 @@
+git@github.com:%username%/ru-my-first-pullrequest.git
