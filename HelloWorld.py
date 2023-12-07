@@ -1,1 +1,1 @@
-print('Hello, Hexlet!')
+print('Hello,  Hexlet!')
