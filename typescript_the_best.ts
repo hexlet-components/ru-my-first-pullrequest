@@ -1,3 +1,3 @@
 function ts_the_best() {
- console.log('the best')
+ console.log('ts the best')
 }
