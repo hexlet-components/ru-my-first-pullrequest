@@ -1,1 +1,2 @@
 NobodyExistsOnPurpose
+(базированное утверждение)
