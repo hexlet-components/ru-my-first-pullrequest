@@ -1,1 +1,1 @@
-function ts_the_best
+function ts_the_best()
