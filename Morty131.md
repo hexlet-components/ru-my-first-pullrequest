@@ -1,2 +1,0 @@
-NobodyExistsOnPurpose
-(базированное утверждение)
