@@ -1,1 +1,0 @@
-Stolby National Park

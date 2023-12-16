@@ -1,1 +1,0 @@
-Hello and good luck!
