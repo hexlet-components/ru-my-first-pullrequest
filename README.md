@@ -1,2 +1,1 @@
-proba
-last lesson of Git course
+Add new backgrounds
