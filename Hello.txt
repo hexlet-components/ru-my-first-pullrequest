@@ -1,5 +1,1 @@
-Hello, guys!
-Hi!
-Hello, everyone! :)
-Шалом, православные! Салам-пополам.
-Всем привет!
+Hello, World!
