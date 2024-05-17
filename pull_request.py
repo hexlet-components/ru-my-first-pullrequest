@@ -1,1 +1,0 @@
-print('Hello, Hexlet!\nI\'m here for another pull request!')

@@ -1,1 +1,0 @@
-Don't give up!

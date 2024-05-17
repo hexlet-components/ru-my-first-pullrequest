@@ -1,2 +1,0 @@
-izi_katka
-GG

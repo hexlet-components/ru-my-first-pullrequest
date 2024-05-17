@@ -1,1 +1,0 @@
-mama ya v pullrequeste!
