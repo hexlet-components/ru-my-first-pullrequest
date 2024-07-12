@@ -1,3 +1,1 @@
-Hello)
-World(
-privetiki
+Hello, World!
