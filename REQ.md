@@ -1,1 +1,0 @@
-> **"THANK YOU FOR THE COURSE"**
