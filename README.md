@@ -13,3 +13,4 @@ Hello from Andrei
 Salam from Daniil
 Hello from BlindBeast!
  Hi from DAnik_Dev!
+Hello from Lana!
