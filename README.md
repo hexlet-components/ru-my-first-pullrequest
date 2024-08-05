@@ -16,3 +16,4 @@ Hello from BlindBeast!
 Hello from Lana!
 Hello from Taganrog
 Hello, There! 
+And I say Hello too!
