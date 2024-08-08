@@ -23,3 +23,4 @@ Hello from Vyksa!
 HEllo
  Hello from Orenburg :) 
  Hello from Serov)
+Hello from Krasnodar!
