@@ -26,4 +26,4 @@ HEllo
 Hello from Krasnodar!
 Hello from Saint-Petersburg
 Greetings from Timur Eshimov from Lipetsk
-I've been to Moscow, I've been to Berlin, but never felt like i'm odin.
+/n I've been to Moscow, I've been to Berlin, but never felt like i'm odin.
