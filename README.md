@@ -25,6 +25,7 @@ HEllo
  Hello from Serov)
 Hello from Krasnodar!
 Hello from Saint-Petersburg
-Greetings from Timur Eshimov from Lipetsk  
-<br/>
-I've been to Moscow, I've been to Berlin, but never felt like i'm odin.
+Greetings from Timur Eshimov from Lipetsk
+Hello from Tyumen!  
+<br/r>
+I've been to Moscow, I've been to Berlin, but never felt like i'm odin.  
