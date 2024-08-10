@@ -29,3 +29,4 @@ Greetings from Timur Eshimov from Lipetsk
 Hello from Tyumen!  
 <br/r>
 I've been to Moscow, I've been to Berlin, but never felt like i'm odin.  
+Hello from Krasnoyarsk!
