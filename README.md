@@ -30,4 +30,4 @@ Hello from Tyumen!
 <br/r>
 I've been to Moscow, I've been to Berlin, but never felt like i'm odin.  
 Hello from Krasnoyarsk!
-Imagination rules the world
+Never stop dreaming
