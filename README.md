@@ -1,7 +1,7 @@
 JJhere, hello world!
 Hello, World! 🌍
 Hello everyone!!!!
-Hi!
+Hi! 
 Hi from Viacheslav!
 Hi from Vladimir!
 Hello everybody!
@@ -38,3 +38,4 @@ Sup from St.Pete's
 My name is Michael. Hello from Shuya, Ivanovo Region. 
 Hello from Saratov!
 Hello from Rostov-on-Don
+Hello from Moscow
