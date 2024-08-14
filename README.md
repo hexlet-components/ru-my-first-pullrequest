@@ -12,6 +12,7 @@ Hello from Kirill
 Hello from Michael
 Hello from VladimirG!
 Hello from Andrei
+Hello from Russia!
 Salam from Daniil
 Hello from BlindBeast!
  Hi from DAnik_Dev!
