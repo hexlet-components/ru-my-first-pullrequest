@@ -46,3 +46,4 @@ Hello from Kuzbass:)
 Hello from Losino-Petrovskiy, Moscow region.
 Prived
 Heya!
+Hello from Arzamas!
