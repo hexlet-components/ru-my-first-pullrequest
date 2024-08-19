@@ -47,4 +47,4 @@ Hello from Losino-Petrovskiy, Moscow region.
 Prived
 Heya!
 Hello from Arzamas!
-Hello from Belaya Kalitva!
+Hello from Belaya Kalitva!privetik
