@@ -48,3 +48,4 @@ Prived
 Heya!
 Hello from Arzamas!
 Hello from Belaya Kalitva!privetik
+Hello from Komsomolsk-on-Amur
