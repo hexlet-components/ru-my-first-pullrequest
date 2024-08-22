@@ -52,3 +52,4 @@ Hello from Komsomolsk-on-Amur
 Hello from Kazan
  !HELLO KORYAZMA! 
 Hello from Max
+Hello from Yaroslavl
