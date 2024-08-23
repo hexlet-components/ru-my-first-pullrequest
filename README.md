@@ -54,3 +54,4 @@ Hello from Kazan
 Hello from Max
 Hello from Yaroslavl
 Hello from Mytishchi!
+Hello everybody from Belarus,Minsk!
