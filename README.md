@@ -56,3 +56,4 @@ Hello from Yaroslavl
 Hello from Mytishchi!
 Hello everybody from Belarus,Minsk!
 Salam popolam
+O bozhe, nakonec-to ya vyuchil angliiskiy!
