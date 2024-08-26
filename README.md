@@ -61,3 +61,4 @@ O bozhe, nakonec-to ya vyuchil angliiskiy!
 Hello from KZ
 darova vsem
 cześć koledzy
+Hello from Salsk/Kaluga
