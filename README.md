@@ -64,3 +64,4 @@ cześć koledzy
 Hello from Salsk/Kaluga
 Hello from Ulan-Ude!
 Hello from Yakutia!
+Hello from Odessa!
