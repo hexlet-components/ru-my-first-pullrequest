@@ -66,3 +66,4 @@ Hello from Ulan-Ude!
 Hello from Yakutia!
 Hello from Odessa!
 Hello from Nizhniy Novgorod
+Hello from Moscow!
