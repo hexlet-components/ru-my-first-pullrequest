@@ -69,3 +69,4 @@ Hello from Nizhniy Novgorod
 Hello from Moscow!
 Be yourself and learn new things! (M.A.D.)
 Hello from Astana!
+Hello from Estonia!
