@@ -42,3 +42,4 @@ Hello from Kupchino
 
 Hello from Marina!  
 Hello from Abakan!
+Hellow from Crimea!
