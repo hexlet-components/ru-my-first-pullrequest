@@ -42,5 +42,5 @@ Hello from Kupchino
 Hello from Slava, the Novosibirsk sonic fan)
 Hello from Marina!  
 Hello from Abakan!
-Hellow from Crimea!
+Hellow from Crimea!  
 Very important line
