@@ -39,7 +39,7 @@ Hello from Novosibirsk
 Hey there!  
 Hello from Belgorod!  
 Hello from Kupchino  
-
+Hello from Slava, the Novosibirsk sonic fan)
 Hello from Marina!  
 Hello from Abakan!
 Hellow from Crimea!
