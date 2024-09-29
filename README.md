@@ -45,4 +45,4 @@ Hello from Abakan!
 Hellow from Crimea!  
 Very important line
 Heyoo everyone!!! 
-There's no facez(
+There's no .
