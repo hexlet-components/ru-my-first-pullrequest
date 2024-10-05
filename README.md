@@ -1,7 +1,7 @@
 ## Greetings
 _Для переноса на новую строку в конце предыдущей строки необходимо добавить два пробела_  
 Rays of goodness to all! 
-
+Hello from COMSE-24!!!
 Hello from SIBSUTIS!  
 Hi, there!
 JJhere, hello world!  
