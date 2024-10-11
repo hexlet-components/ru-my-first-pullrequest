@@ -47,16 +47,12 @@ Hellow from Crimea!
 Very important line
 Heyoo everyone!!! 
 There's no .
-
+Tell me if you need me and call me if you feelin' alone 'cause I'm here, I'm always right here.
 Hello from Stavropol!!
-
 Tell me if you need me and call me if you feelin' alone 'cause I'm here, I'm always right here.<br>
-
 Entia non sunt multiplicanda praeter necessitatem  
 Woke up this mornin', got myself a pull request
 H e l l o   f r o m   Z e l e n o g r a d ! ! ! 
- 
  Hello from SPb!!
   hello everyone
-
 Hello from Yekaterinburg  
