@@ -11,7 +11,7 @@ Hi!
 Hi from Viacheslav!  
 Hi from Vladimir!  
 Hello everybody!  
-Hello from Artyom!
+Hello from Artyom!  
 Hello from Alexey!  
 new information  
 Hello !  
