@@ -7,7 +7,8 @@ Hi, there!
 JJhere, hello world!  
 Hello, World! 🌍  
 Hello everyone!!!!  
-Hi!  
+Hi!
+Hello from Stefan!  
 Hi from Viacheslav!  
 Hi from Vladimir!  
 Hello everybody!  
