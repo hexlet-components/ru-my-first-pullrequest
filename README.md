@@ -67,3 +67,4 @@ Hello from Perm
 4ak-4ak from Kazan to everybody
 Hello, Hexlet! This is my first pullrequest!  
 Hello from Novosibirsk, Vsem Privet!
+Hello from Moscow!
