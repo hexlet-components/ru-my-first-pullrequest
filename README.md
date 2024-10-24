@@ -12,6 +12,7 @@ Hi!
 Hello from Stefan!  
 Hi from Viacheslav!  
 Hi from Vladimir!  
+Hello from Kaeeraa!  
 Hello everybody!  
 Hello from Artyom!  
 Hello from Alexey!  
