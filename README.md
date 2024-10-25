@@ -1,4 +1,4 @@
-## Greetings
+ci## Greetings
 _Для переноса на новую строку в конце предыдущей строки необходимо добавить два пробела_  
 Hello from Tyumen 🔥  
 Rays of goodness to all! 
@@ -9,7 +9,7 @@ JJhere, hello world!
 Hello, World! 🌍  
 Hello everyone!!!!  
 Hi!
-Hello from Stefan!  
+Hello from Stefan!
 Hi from Viacheslav!  
 Hi from Vladimir!  
 Hello from Kaeeraa!  
@@ -69,3 +69,4 @@ Hello from Perm
 Hello, Hexlet! This is my first pullrequest!  
 Hello from Novosibirsk, Vsem Privet!
 Hello from Moscow!
+Hello hexlet from Izhevsk
