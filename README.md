@@ -67,4 +67,8 @@ Hello from Perm
 Hello, Hexlet! This is my first pullrequest!  
 Hello from Novosibirsk, Vsem Privet!  
 Hello from Moscow!  
-Hello hexlet from Izhevsk  
+Hello hexlet from Izhevsk
+
+Russians are killing Ukrainians!!!
+
+
