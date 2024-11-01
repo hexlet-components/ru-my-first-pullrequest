@@ -69,7 +69,7 @@ Hello from Novosibirsk, Vsem Privet!
 Hello from Moscow!  
 Hello hexlet from Izhevsk
 
-Russians are killing Ukrainians!!!
+Russians are killing Ukrainians!!!  Yes sir!
 
 
 olleH
