@@ -75,4 +75,5 @@ Hello hexlet from Izhevsk
 olleH
 It`s my first editing  
 Hello from Novorossiysk!
-Hello from Ufa!
+Hello from Ufa!  
+HELLO EVERYONE FROM USSURIYSK 🐅🐅🐅🐅
