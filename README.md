@@ -71,6 +71,8 @@ Hello from Novosibirsk, Vsem Privet!
 Hello from Moscow!  
 Hello from Russia!!!🔥 🔥 🔥 
 Hello hexlet from Izhevsk
+Hello Hexlet from Astana
+
 
 olleH
 It`s my first editing  
