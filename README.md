@@ -1,4 +1,5 @@
 ## Greetings
+
 _Для переноса на новую строку в конце предыдущей строки необходимо добавлять два пробела. Это чтобы README.md корректно отображался на github_
 
 Ivan Korenets Full stack developer ,Hi!!!!
@@ -30,7 +31,7 @@ Hello from BlindBeast!
  Hi from DAnik_Dev!  
 Hello from Lana!  
 Hello from Taganrog  
-Hello, There!   
+Hello, There!  
 And I say Hello too!  
 Hello from Vyksa!  
 HEllo  
@@ -59,9 +60,9 @@ Tell me if you need me and call me if you feelin' alone 'cause I'm here, I'm alw
 Hello from Stavropol!!  
 Entia non sunt multiplicanda praeter necessitatem  
 Woke up this mornin', got myself a pull request  
-H e l l o   f r o m   Z e l e n o g r a d ! ! !  
+H e l l o f r o m Z e l e n o g r a d ! ! !  
  Hello from SPb!!  
-  hello everyone  
+ hello everyone  
 Hello from Yekaterinburg  
 The world is an interestiong thing!:)  
 Hello from Irkutsk!  
@@ -70,17 +71,19 @@ Hello from Perm
 Hello, Hexlet! This is my first pullrequest!  
 Hello from Novosibirsk, Vsem Privet!  
 Hello from Moscow!  
-Hello from Russia!!!🔥 🔥 🔥 
+Hello from Russia!!!🔥 🔥 🔥
 Hello hexlet from Izhevsk
 Hello Hexlet from Astana
-
 
 olleH
 It`s my first editing  
 Hello from Novorossiysk!
 Hello from Ufa!  
-HELLO EVERYONE FROM USSURIYSK 🐅🐅🐅🐅  
+HELLO EVERYONE FROM USSURIYSK 🐅🐅🐅🐅
 
 Greetings to Sbornik Geyniev from Halva⚡⚡⚡
 Hello from Tobolsk
-Hello from Sait-Peterburg!  
+Hello from Sait-Peterburg!
+
+Greetings to all!  
+I'm Alex from Moscow
