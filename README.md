@@ -74,7 +74,7 @@ Hello from Moscow!
 Hello from Russia!!!🔥 🔥 🔥
 Hello hexlet from Izhevsk
 Hello Hexlet from Astana  
-Hello from Vladivostok!
+Hello from Vladivostok!  
 Hello from Krasnoyarsk!
 
 olleH
