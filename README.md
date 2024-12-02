@@ -93,3 +93,5 @@ Rays of goodness from Jul :)
 Rays of goodness from Jul   :)
 Test  
 Test  
+test index  
+Hello from Apple City, Qazaqstan!
