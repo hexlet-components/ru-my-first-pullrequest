@@ -94,4 +94,6 @@ Rays of goodness from Jul   :)
 Test  
 Test  
 test index  
-Hello from Apple City, Qazaqstan!
+Hello from Apple City, Qazaqstan!  
+  
+Good day from NSK!  
