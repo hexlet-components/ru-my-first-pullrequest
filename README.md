@@ -97,3 +97,4 @@ test index
 Hello from Apple City, Qazaqstan!  
   
 Good day from NSK!  
+Hello from Stavropol!  
