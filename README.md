@@ -100,3 +100,4 @@ Good day from NSK!
 Hello from Stavropol!  
 Good evening from Sain-P  
 Hello from Almaty
+Goog luck!
