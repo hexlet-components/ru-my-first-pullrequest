@@ -102,4 +102,4 @@ Good evening from Sain-P
 Hello from Almaty
 Goog luck!
 Wasiliy-Terkin was here.
-hello from parnas!  
+hello from parnas!  Hi!  
