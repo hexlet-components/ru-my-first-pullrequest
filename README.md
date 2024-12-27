@@ -110,3 +110,4 @@ Index test
 Vasya was here
 Hello again from Moscow  
 Hello from niro_bb
+Hello from Kropotkin  
