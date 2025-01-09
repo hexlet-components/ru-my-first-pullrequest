@@ -115,5 +115,5 @@ Hello from Kropotkin
 Hello from Omsk!  
 Continuing the tradition. Greetings from Tomsk.  
 Hello form Vyksa!  
-Hello from Krasnodar 
-
+Hello from Krasnodar  
+Hellow from 2025 SPB!
