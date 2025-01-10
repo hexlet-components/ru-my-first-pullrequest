@@ -122,5 +122,5 @@ Hello from Voronezh 2025!
 
 Hello from Pavlosvskiy Posad!
 
-## ГООЛ!
+## ГООЛ!!
 
