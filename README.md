@@ -117,6 +117,7 @@ Hello from Omsk!
 Continuing the tradition. Greetings from Tomsk.  
 Hello form Vyksa!  
 Hello from Krasnodar  
+Thanks from Kazan by Yuriy
 Hello from 2025 SPB!
 Hello from Voronezh 2025!
 
