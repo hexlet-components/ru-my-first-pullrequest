@@ -135,8 +135,8 @@ Hello from Perm! one more
 Hello tak nado
 Good luck mates!  
 
-Hello from Dolgoprudny!
-Hello from Daniil!
+Hello from Dolgoprudny!  
+Hello from Daniil!  
 Good day everyone!  
 hello from mtuci's student
   
