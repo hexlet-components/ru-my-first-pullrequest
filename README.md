@@ -2,6 +2,8 @@
 
 _Для переноса на новую строку в конце предыдущей строки необходимо добавлять два пробела. Это чтобы README.md корректно отображался на github_
 
+“Success is the sum of small efforts, repeated day in and day out.”―  Robert Collie  
+
 Hello from Melitopol  
 Пора бы уже чтото дельное здесь писать
 Hello world!  
