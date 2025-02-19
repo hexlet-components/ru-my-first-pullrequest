@@ -150,3 +150,5 @@ Hello from Samara!
 
 helo ery1 2 u2  
 Hello from Moscow
+
+g.o.d flip that mf
