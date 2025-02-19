@@ -148,4 +148,5 @@ Leningrad here
 
 Hello from Samara!
 
-helo ery1 2 u2
+helo ery1 2 u2  
+Hello from Moscow
