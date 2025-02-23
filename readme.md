@@ -141,3 +141,4 @@ Good day everyone!
 Hello from Moscow!!
 Hello once more time
 foolin around @ 437i
+Hello from Krd!
