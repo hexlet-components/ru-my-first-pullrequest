@@ -135,6 +135,8 @@ Hello from Perm! one more
 Hello tak nado
 Good luck mates!  
 
+Hello Hexlet, I and you together forever
+
 Hello from Dolgoprudny!
 Good day everyone!
 
