@@ -4,6 +4,7 @@ _Для переноса на новую строку в конце предыд
 
 “Success is the sum of small efforts, repeated day in and day out.”―  Robert Collie  
 
+Hello, friend...
 Greetings from Tegridy Farms!!!  
 Hello from Melitopol  
 Пора бы уже чтото дельное здесь писать
