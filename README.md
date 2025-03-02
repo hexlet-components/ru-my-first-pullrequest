@@ -159,4 +159,6 @@ Hello from Neizzzy
 Hello from annrud!
 
 Irkutsk na meste EZ by xypwa
-Greetings from YaM, Moscow!
+Greetings from YaM, Moscow!  
+
+Henlo from Saint-P, mates!
