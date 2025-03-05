@@ -1,14 +1,12 @@
+`
 ## Greetings
 
 _Для переноса на новую строку в конце предыдущей строки необходимо добавлять два пробела. Это чтобы README.md корректно отображался на github_
-
-“Success is the sum of small efforts, repeated day in and day out.”―  Robert Collie  
-
-Hello, friend...
-Greetings from Tegridy Farms!!!  
-Hello from Melitopol  
-Пора бы уже чтото дельное здесь писать
-Hello world!  
+  
+Пора бы уже чтото дельное здесь писать  
+Пишу что-то дельное, но не уверен в том, что это что-то - дельное  
+Hello world!
+Привет мир Хекслета! Как классно, что ты есть!  
 Ivan Korenets Full stack developer ,Hi!!!!
 Hello from Tyumen 🔥  
 Rays of goodness to all!  
@@ -19,6 +17,7 @@ JJhere, hello world!
 Hello, World! 🌍  
 Hello everyone!!!!  
 Hello
+Oh my..
 Hi!  
 Hello from Stefan!  
 Hi from Viacheslav!  
@@ -139,26 +138,14 @@ Hello from Perm! one more
 Hello tak nado
 Good luck mates!  
 
-Hello from Dolgoprudny!  
-Hello from Daniil!  
-Good day everyone!  
-hello from mtuci's student
-  
-Hello from SP
-Leningrad here
+Hello Hexlet, I and you together forever
 
-Hello from Samara!
+Hello from Dolgoprudny!
+Good day everyone!
 
-helo ery1 2 u2  
-Hello from Moscow
-
-g.o.d flip that mf
-Hello, World!
-
-Hello from Neizzzy  
-Hello from annrud!
-
-Irkutsk na meste EZ by xypwa
-Greetings from YaM, Moscow!  
-
-Henlo from Saint-P, mates!
+Hello from Moscow!!
+Hello once more time
+foolin around @ 437i
+Hello from Krd!
+Hello from Yasnyi!  
+Greeting from YaM, Moscow!  
