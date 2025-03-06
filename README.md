@@ -149,3 +149,4 @@ foolin around @ 437i
 Hello from Krd!
 Hello from Yasnyi!  
 Greeting from YaM, Moscow!  
+Hello from Yaroslavl!! @asrbacr
