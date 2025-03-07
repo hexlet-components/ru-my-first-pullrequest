@@ -1,1 +1,1 @@
-Тестим клонирование и Pull request в репозитории.
+Greetings from Yekaterinburg
