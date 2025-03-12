@@ -1,1 +1,1 @@
-My test text file for hexlet repository
+My test text file for hexlet repository.
