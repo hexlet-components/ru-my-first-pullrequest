@@ -150,4 +150,4 @@ Hello from Krd!
 Hello from Yasnyi!  
 Greeting from YaM, Moscow!  
 Hello from Surgut :D  
-Hello
+Hellonew zapis  
