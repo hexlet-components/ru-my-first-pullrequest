@@ -154,3 +154,4 @@ Hello from Surgut! :D
 Hi from Ufa, Mashinistov, 4  
 Hello from St.Petersburg  
 Hello from St.Petersburg one more time
+Hello Git!
