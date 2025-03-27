@@ -5,3 +5,4 @@ Hello, World!
 Ленин тоже!
 Как дела?
 Здесь была Саша :))
+Lets go to study phyton 
