@@ -156,4 +156,5 @@ Hello from St.Petersburg
 Hello from St.Petersburg one more time
 Hello Git!
   Hello Hexlet
-Hello Hex!
+Hello Hex!  
+Всем хорошегодня и отличного настроения!
