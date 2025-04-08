@@ -148,6 +148,7 @@ Hello from Moscow!!
 Hello once more time
 foolin around @ 437i
 Hello from Krd!
+Здесь был Я:)
 Hello from Yasnyi!  
 Greeting from YaM, Moscow!
 Hello from Surgut! :D  
