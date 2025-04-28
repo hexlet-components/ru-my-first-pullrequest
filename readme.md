@@ -159,3 +159,4 @@ Hello Git!
   Hello Hexlet
 Hello Hex!  
 slim Shady from Xubuntus!
+Привет из Хабаровска!
