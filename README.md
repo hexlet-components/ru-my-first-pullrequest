@@ -159,5 +159,5 @@ Hello from St.Petersburg one more time
 Hello Git!
   Hello Hexlet
 Hello Hex!  
-Всем хорошегодня и отличного настроения!
+Всем хорошегодня и отличного настроения!  
 Мир, труд, май!
