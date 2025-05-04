@@ -160,3 +160,4 @@ Hello Git!
 Hello Hex!  
 slim Shady from Xubuntus!
 Привет из Хабаровска!
+Hi from Colombia!
