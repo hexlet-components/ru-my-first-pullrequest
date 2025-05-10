@@ -163,3 +163,4 @@ slim Shady from Xubuntus!
 Привет из Хабаровска!
 Hi from Colombia!
 Salut de Paris !
+HI FORM KEMEROVO!!
