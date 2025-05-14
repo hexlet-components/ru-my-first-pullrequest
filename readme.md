@@ -163,4 +163,5 @@ slim Shady from Xubuntus!
 Привет из Хабаровска!
 Hi from Colombia!
 Salut de Paris !
-HI FORM KEMEROVO!!
+HI FROM KEMEROVO!!
+Is it possible to become a programmer at 55 ?
