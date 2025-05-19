@@ -1,4 +1,5 @@
 prost0Elizabeth`
+
 ## Greetings
 
 _Для переноса на новую строку в конце предыдущей строки необходимо добавлять два пробела. Это чтобы README.md корректно отображался на github_
@@ -98,12 +99,12 @@ Hello from Sait-Peterburg!
 Greetings to all!  
 I'm Alex from Moscow
 Rays of goodness from Jul :)
-Rays of goodness from Jul   :)
+Rays of goodness from Jul :)
 Test  
 Test  
 test index  
-Hello from Apple City, Qazaqstan!  
-  
+Hello from Apple City, Qazaqstan!
+
 Good day from NSK!  
 Hello from Stavropol!  
 Good evening from Sain-P  
@@ -129,8 +130,9 @@ Hello from Voronezh 2025!
 
 Hello from Pavlosvskiy Posad!
 Hello from 2025 year
-Hello from Tolyatti  
-## ГООЛ!!  
+Hello from Tolyatti
+
+## ГООЛ!!
 
 Привет из Благовещенска!
 
@@ -138,7 +140,7 @@ How y'all doing folks -- kjsks
 Hello from Piga
 Hello from Perm! one more  
 Hello tak nado
-Good luck mates!  
+Good luck mates!
 
 Hello Hexlet, I and you together forever
 
@@ -157,7 +159,7 @@ Hi from Ufa, Mashinistov, 4
 Hello from St.Petersburg  
 Hello from St.Petersburg one more time
 Hello Git!
-  Hello Hexlet
+Hello Hexlet
 Hello Hex!  
 slim Shady from Xubuntus!
 Привет из Хабаровска!
@@ -165,4 +167,6 @@ Hi from Colombia!
 Salut de Paris !
 HI FROM KEMEROVO!!
 Is it possible to become a programmer at 55 ?
-  Hello everyone!
+Hello everyone!
+
+Привет из Барнаула !!!!
