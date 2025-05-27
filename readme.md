@@ -171,3 +171,4 @@ Is it possible to become a programmer at 55 ?
 Hello everyone!
 
 Привет из Барнаула !!!!
+Привет из Ульяновска !!!
