@@ -1,8 +1,6 @@
 #include <iostream>
 
-using namespace std;
-
 int main()
 {
-  cout << "Fozik Was Here" << endl;
+  std::cout << "Fozik Was Here\n";
 }
