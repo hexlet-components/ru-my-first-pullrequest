@@ -36,3 +36,4 @@ jobs:
           MERGE_LABELS: ""
           MERGE_DELETE_BRANCH: "true"
           MERGE_FORKS: "true"
+          
