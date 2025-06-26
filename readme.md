@@ -86,7 +86,7 @@ Hello hexlet from Izhevsk
 Hello Hexlet from Astana  
 Hello from Vladivostok!  
 Hello from Krasnoyarsk!
-
+Hello from Tomsk! <3
 olleH
 It`s my first editing  
 Hello from Novorossiysk!
