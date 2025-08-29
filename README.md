@@ -1,3 +1,4 @@
-Моё настоящее изменение через Pull Request
-Изменение специально для pull request в README.md
+Моё настоящее изменение через Pull Request.
+Изменение специально для Pull Request в README.md
 Это мой апдейт.
+D
