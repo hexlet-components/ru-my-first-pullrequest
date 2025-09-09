@@ -3,3 +3,4 @@
 Это мой апдейт.
 D
 pull request
+Ryūjin no ken wo kūrae!
