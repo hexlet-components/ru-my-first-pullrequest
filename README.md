@@ -7,3 +7,5 @@ Hello from Go!
 
 ![](https://komarev.com/ghpvc/?username=hexlet-components)
 Hello from Anton
+
+Hello from Kyrgyzstan!!!
