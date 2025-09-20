@@ -9,3 +9,4 @@ Hello from Go!
 Hello from Anton
 
 Hello from Kyrgyzstan!!!
+Hello from Strezhevoy
