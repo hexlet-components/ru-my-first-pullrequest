@@ -14,3 +14,4 @@ Hello from Strezhevoy
 Hello from Moscow
 Hello from SaintP
 My first pull request!
+Привет из Серпухова!
