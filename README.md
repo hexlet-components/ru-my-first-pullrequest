@@ -17,3 +17,4 @@ My first pull request!
 Привет из Серпухова!
 Привет, Hexlet!
 hello from Irkutsk!
+hello from Krasnodar
