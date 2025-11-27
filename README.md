@@ -19,3 +19,4 @@ My first pull request!
 hello from Irkutsk!
 hello from Krasnodar
 всем привет из архангельской области
+Привет от меня!
