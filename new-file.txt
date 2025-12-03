@@ -1,0 +1,2 @@
+Hi, Hexlet!
+Thanks a lot for the best git course
