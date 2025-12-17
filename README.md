@@ -23,3 +23,4 @@ hello from Krasnodar
 Я тут был
 Pull Request
 Hello from Rostov-na-Donu!
+Hello from Astana!
