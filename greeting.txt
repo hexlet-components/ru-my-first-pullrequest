@@ -1,1 +1,1 @@
-hi for everyone from hexlet
+hi everyone. it's my first pull request. if you want to make one too, then edit this file. good luck
