@@ -1,1 +1,1 @@
-Hello, friends!
+Welcome to NiNo
