@@ -1,5 +1,0 @@
-public class HelloGreeting {
-	public static void main(String[] args) {
-		System.out.println('Hello from Feeor!');
-	}
-}
