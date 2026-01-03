@@ -10,7 +10,6 @@ on:
       - ready_for_review
       - reopened
       - unlocked
-      - Hello from Alex Prikhodko
   pull_request_review:
     types:
       - submitted
