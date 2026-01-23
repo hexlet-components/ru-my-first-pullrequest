@@ -1,6 +1,0 @@
-mkdir birlurnou
-cd birlurnou
-touch hint.txt
-nano hint.txt
-git add hint.txt
-git commit 'add hint.txt'
