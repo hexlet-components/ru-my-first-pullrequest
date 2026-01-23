@@ -1,1 +1,0 @@
-For educational purposes
