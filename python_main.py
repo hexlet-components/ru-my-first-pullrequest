@@ -1,4 +1,0 @@
-HELLO = "KARAMBA!!!)))"
-
-print(HELLO)
-
