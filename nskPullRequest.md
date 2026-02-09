@@ -1,1 +1,0 @@
-Good day from NSK
