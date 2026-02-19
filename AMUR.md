@@ -1,2 +1,0 @@
-Hello!
-And you, hello!
