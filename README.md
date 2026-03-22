@@ -1,10 +1,2 @@
-Hi, my name is Armine
-Hello Everyone!
-Hello from Moscow! :)
-Hello!
-hihi
-video changes #1
-video changes #2
-video changes #3
-Hello, from Andrei!
-Hello from Tatarstan! 
+TG: @nickdsl
+Я решил учить GO в 2026 в эпоху LLM. Удачи мне )
