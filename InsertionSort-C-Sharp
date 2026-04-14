@@ -1,0 +1,15 @@
+using System;
+
+public int InsertionSort(int[] arr)
+{
+  for (int i = 0; i < arr.Length - i; i++)
+  {
+    int min = arr[i];
+    for (int j = 0; j < arr.Length; i++)
+      if(arr[j] < min)
+        min = arr[j];
+    int temp = arr[i];
+    arr[i] = min;
+    arr[arr.Length - i] = temp;
+  }
+}

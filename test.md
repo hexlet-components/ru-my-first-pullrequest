@@ -1,2 +1,1 @@
-file for testing pull request with hexlet
-vasya was here
+test pull request

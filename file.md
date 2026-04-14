@@ -1,1 +1,1 @@
-hello, hexlet!
+Hello, world!
