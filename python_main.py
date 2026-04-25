@@ -1,0 +1,4 @@
+HELLO = "KARAMBA!!!)))"
+
+print(HELLO)
+
