@@ -200,3 +200,5 @@ The most effective way to do it, is to do it.
 Veni vidi vici (c) Jason Statham
 
 В такие времена, как нынешние, полезно помнить, что времена всегда были нынешние.
+
+Я обязательно пройду эту профессию до конца!
