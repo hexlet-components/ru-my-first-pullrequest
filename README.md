@@ -1,3 +1,15 @@
+---
+
+### 🌟 Hall of Fame 🌟
+
+👨‍💻 **Linkoff** joined the resistance  
+📅 _June 2026_  
+💬 _"Everything will be fine. Worst case scenario, it won't. 🤷‍♂️"_  
+
+🔥 ⭐ 🚀 💯
+
+---
+
 TG: @nickdsl
 Я решил учить GO в 2026 в эпоху LLM. Удачи мне )
 
