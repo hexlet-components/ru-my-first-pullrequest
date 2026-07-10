@@ -1,5 +1,5 @@
 name: automerge
-on:
+on: troll flex/dace
   pull_request_target:
     types:
       - labeled
