@@ -1,1 +1,1 @@
-# Thanks for the course!
+Конец курса по гит от hexlet, большое спасибо
