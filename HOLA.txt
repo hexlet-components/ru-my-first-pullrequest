@@ -1,1 +1,1 @@
-HOLA Hexlet
+Hola

@@ -1,1 +1,1 @@
-Welcome to NiNo
+Привет, ребята!
