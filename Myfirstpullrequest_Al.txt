@@ -1,0 +1,2 @@
+Добрый день всем!
+Первый опыт в пулреквест: hexlet-components/ru-my-first-pullrequest
