@@ -1,0 +1,1 @@
+Hi to all Hexlet members who passed GIT Overview course
