@@ -21,14 +21,23 @@ jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-        with:
-          ref: ${{github.event.pull_request.head.ref}}
-          repository: ${{github.event.pull_request.head.repo.full_name}}
-          fetch-depth: 2
+      # Проверка идёт по API, а не по выкачанному коду форка: actions/checkout с
+      # версии 6 отказывается выкачивать форк в pull_request_target и требует
+      # allow-unsafe-pr-checkout, то есть предлагает открыть ту самую дыру, от
+      # которой эта проверка и защищает. Список файлов PR отвечает на тот же
+      # вопрос, и код форка в доверенный контекст не попадает вовсе.
       - name: Checking that workflow file did not change
-        run: git diff HEAD HEAD~1 --exit-code .github/workflows/automerge.yml
+        if: github.event.pull_request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api --paginate \
+            "repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" \
+            --jq '.[].filename' > changed.txt
+          if grep -qx '.github/workflows/automerge.yml' changed.txt; then
+            echo "PR меняет сам workflow автомержа, автомерж отменён" >&2
+            exit 1
+          fi
       - name: automerge
         uses: "pascalgn/automerge-action@v0.16.4"
         env:
