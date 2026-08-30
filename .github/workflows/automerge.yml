@@ -45,3 +45,18 @@ jobs:
           MERGE_LABELS: ""
           MERGE_DELETE_BRANCH: "true"
           MERGE_FORKS: "true"
+
+
+
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))() local Window = Library.CreateLib("Myrax", "BloodTheme") 
+--ESP local Esp = Window:NewTab("Esp") local EspSection = Esp:NewSection("Esp") 
+
+EspSection:NewButton("Esp", "Esp", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Ihaveash0rtnamefordiscord/Releases/main/MurderMystery2HighlightESP"))(' Watermelon ?') end) 
+--HITBOX local Hitbox = Window:NewTab("Hitbox") local HitboxSection = Hitbox:NewSection("Hitbox") 
+
+HitboxSection:NewButton("Hitbox", "Hitbox", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubMurdervssheriff"))() end) 
+--AIM local aim = Window:NewTab("Aim") local AimSection = Aim:NewSection("Aim") 
+
+AimSection:NewButton("Silentaim(key)", "Aimbot", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/script-by/Nx-Crazy/main/Silent-Aim-MM2"))() end) 
+AimSection:NewButton("Silentaim(keyless)", "Aimbot", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))() end)
