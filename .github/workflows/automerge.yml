@@ -26,7 +26,12 @@ jobs:
       # allow-unsafe-pr-checkout, то есть предлагает открыть ту самую дыру, от
       # которой эта проверка и защищает. Список файлов PR отвечает на тот же
       # вопрос, и код форка в доверенный контекст не попадает вовсе.
-      - name: Checking that workflow file did not change
+      #
+      # Стережётся весь `.github/`, а не один этот файл. Содержимое репозитория
+      # студенты правят и удаляют свободно: смысл упражнения в самом факте
+      # пулреквеста и мержа. Без `.github/` автомерж перестаёт работать, и
+      # следующий студент останется без мержа.
+      - name: Checking that .github did not change
         if: github.event.pull_request
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -34,8 +39,9 @@ jobs:
           gh api --paginate \
             "repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" \
             --jq '.[].filename' > changed.txt
-          if grep -qx '.github/workflows/automerge.yml' changed.txt; then
-            echo "PR меняет сам workflow автомержа, автомерж отменён" >&2
+          if grep -q '^\.github/' changed.txt; then
+            echo "PR трогает .github, от которого зависит автомерж:" >&2
+            grep '^\.github/' changed.txt >&2
             exit 1
           fi
       - name: automerge
@@ -45,18 +51,3 @@ jobs:
           MERGE_LABELS: ""
           MERGE_DELETE_BRANCH: "true"
           MERGE_FORKS: "true"
-
-
-
-
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))() local Window = Library.CreateLib("Myrax", "BloodTheme") 
---ESP local Esp = Window:NewTab("Esp") local EspSection = Esp:NewSection("Esp") 
-
-EspSection:NewButton("Esp", "Esp", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Ihaveash0rtnamefordiscord/Releases/main/MurderMystery2HighlightESP"))(' Watermelon ?') end) 
---HITBOX local Hitbox = Window:NewTab("Hitbox") local HitboxSection = Hitbox:NewSection("Hitbox") 
-
-HitboxSection:NewButton("Hitbox", "Hitbox", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubMurdervssheriff"))() end) 
---AIM local aim = Window:NewTab("Aim") local AimSection = Aim:NewSection("Aim") 
-
-AimSection:NewButton("Silentaim(key)", "Aimbot", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/script-by/Nx-Crazy/main/Silent-Aim-MM2"))() end) 
-AimSection:NewButton("Silentaim(keyless)", "Aimbot", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))() end)
