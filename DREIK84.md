@@ -1,2 +1,1 @@
-My first pullrequest from Hithub
-And my second pullrequest form PC
+My first pullrequest from Hithub And my second pullrequest form PC

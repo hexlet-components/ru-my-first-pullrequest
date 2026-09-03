@@ -1,2 +1,1 @@
-Hi all, i've passed Hexlet Git course already!
-Поздравления!
+Hi all, i've passed Hexlet Git course already! Поздравления!

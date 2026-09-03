@@ -1,2 +1,1 @@
-Hello!
-And you, hello!
+Hello! And you, hello!

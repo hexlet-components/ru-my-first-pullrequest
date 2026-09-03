@@ -1,2 +1,1 @@
-Dakka-Dakka-Dakka! Waaaaaaagh!
-WAKKA-WAKKA
+Dakka-Dakka-Dakka! Waaaaaaagh! WAKKA-WAKKA
