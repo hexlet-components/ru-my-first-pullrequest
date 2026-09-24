@@ -1,0 +1,100 @@
+ELASTICSEARCH
+│
+│
+├── DATA STREAM
+│   logs-windows.powershell_operational-default
+│   │
+│   │   Логический поток данных
+│   │
+│   ├── BACKING INDEX (= INDEX)
+│   │   .ds-logs-windows.powershell_operational-default-000001
+│   │   │
+│   │   │   Реальное хранилище документов
+│   │   │
+│   │   ├── PRIMARY SHARD 0
+│   │   │   │
+│   │   │   ├── DOCUMENT
+│   │   │   │   {
+│   │   │   │      "@timestamp": "2026-08-17T10:15:23Z",
+│   │   │   │      "host.name": "WIN-SERVER-01",
+│   │   │   │      "agent.name": "agent-win-01",
+│   │   │   │      "message": "PowerShell started"
+│   │   │   │   }
+│   │   │   │
+│   │   │   └── DOCUMENT
+│   │   │       { ... }
+│   │   │
+│   │   ├── PRIMARY SHARD 1
+│   │   │   ├── DOCUMENT
+│   │   │   ├── DOCUMENT
+│   │   │   └── ...
+│   │   │
+│   │   └── PRIMARY SHARD 2
+│   │       ├── DOCUMENT
+│   │       ├── DOCUMENT
+│   │       └── ...
+│   │
+│   ├── BACKING INDEX (= INDEX)
+│   │   .ds-logs-windows.powershell_operational-default-000002
+│   │   │
+│   │   └── SHARDS
+│   │       ├── Shard 0
+│   │       ├── Shard 1
+│   │       └── Shard 2
+│   │
+│   └── BACKING INDEX (= INDEX)
+│       .ds-logs-windows.powershell_operational-default-000003
+│           │
+│           └── SHARDS
+│               ├── Shard 0
+│               ├── Shard 1
+│               └── Shard 2
+│
+│
+├── DATA STREAM
+│   metrics-system.cpu-default
+│   │
+│   ├── BACKING INDEX (= INDEX)
+│   │   .ds-metrics-system.cpu-default-000001
+│   │       └── SHARDS
+│   │
+│   └── BACKING INDEX (= INDEX)
+│       .ds-metrics-system.cpu-default-000002
+│           └── SHARDS
+│
+│
+└── DATA STREAM
+    metrics-system.memory-default
+        │
+        └── BACKING INDEX (= INDEX)
+            .ds-metrics-system.memory-default-000001
+                └── SHARDS
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+DATA STREAM
+logs-windows.powershell_operational-default
+        │
+        ▼
+BACKING INDEX
+.ds-logs-windows...-000001
+        │
+        ▼
+SHARDS (primary and replica)
+┌────────────┬────────────┬────────────┐
+│  Shard 0   │  Shard 1   │  Shard 2   │
+│    0 p     │    0 p	  │    0 p     │
+│    0 r     │    0 r	  │    0 r     │
+│  (node0)   │  (node1)   │  (node2)   │
+│ Documents  │ Documents  │ Documents  │
+└────────────┴────────────┴────────────┘
+        │
+        ▼
+DOCUMENT
+{
+    "@timestamp": "...",       ← FIELD
+    "host.name": "WIN-01",     ← FIELD
+    "agent.name": "agent-01",  ← FIELD
+    "message": "..."           ← FIELD
+}
+--------------------------------------------------------------------------------------------------------------------------------
