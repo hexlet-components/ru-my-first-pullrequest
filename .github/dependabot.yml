@@ -1,11 +1,1 @@
-version: 2
-updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "monthly"
-    open-pull-requests-limit: 1
-    labels: ["dependencies", "automated"]
-    groups:
-      github-actions-all:
-        patterns: ["*"]
+dependabot is shit
