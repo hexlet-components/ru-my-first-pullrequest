@@ -73,3 +73,5 @@ Hello, Hexlet!
 
 Привет, Hexlet! Рад внести свой вклад в open source. Пусть каждый небольшой PR открывает дорогу к большим проектам! 🚀
 Димка на связи
+Stupid is the one who always remains the same.
+Take actions from the perspective of a person you admire.
