@@ -80,3 +80,8 @@ Stupid is the one who always remains the same.
 Take actions from the perspective of a person you admire.  
   
 Привет из Москвы! (2)
+
+Хруст снега под ногами —
+шаг за шагом сквозь вьюгу.
+Весна неизбежна.
+20261127 much love from Tula
